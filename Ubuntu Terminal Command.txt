@@ -1,0 +1,28 @@
+Our Ubuntu Terminal Commands Is Given Below =>
+ 1) ctrl + alt + t => for open our terminal.
+ 2) sudo apt-get update => for update all packages.
+ 3) sudo apt-get upgrade => for upgrade all packages.
+ 4) sudo apt-get install packageName => for installing any program.
+ 5) git, node, npm --version => for checking package version.
+ 6) dpkg --list => for knowing our installed program.
+ 7) sudo apt-get remove => for uninstalling any program.
+ 8) sudo apt-get autoremove => for remove any unnecessary packages.
+ 9) ls => for knowing our directory all contents.
+10) cd => for change our directory.
+11) cd .., cd - => for back to the previous directory.
+12) cd ../.. => for back to the multiple directory.
+13) cd / => for go back to the root directory.
+14) pwd => for knowing our present working directory.
+15) clear => for clear our terminal.
+16) cp fileName folderName > for copy any file to any folder.
+17) cp -r folderName folderName > for copy any folder to any folder.
+18) mv fileName folderName => for move any file to folder.
+19) mv folderName folderName => for move any folder to folder.
+20) rmdir folderName => for delete any folder.
+21) rm -r folderName => for delete any folder which is exiting contents.
+22) rm fileName => for delete any file.
+23) rm * => for delete all file.
+24) rm -r * => for delete all file and folder.
+25) history => all command history.
+26) passwd => for change our password.
+27) exit, ctrl + shift + w => for close our terminal.

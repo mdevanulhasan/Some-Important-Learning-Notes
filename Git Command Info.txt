@@ -1,0 +1,93 @@
+*** Git and Github video tutorial link=> https://www.youtube.com/watch?v=4KdGgGsIDeA&feature=youtu.be&t=2650
+
+* If we want to create any folder to git repository. so we will write=> at first open our desired folder. we will mouse right click and then 
+select git bash option now we will see a command prompt here if we want to create any folder to git repository I will write=>
+git init then hit enter.
+
+* If we want to give a username and email. we can give this two process. like=> globally and locally.
+  here first we will see a globally(same username and email) giving process. 
+  1) git config --global user.name "mdevanulhasan"
+  and git config --global user.email "mdevanulhasan@gmail.com" then hit enter.so now we are saying that, this project i will
+  use this username and email.
+
+  And If we want to locally(each project each username and email) giving process. 
+  2) git config user.name "mdevanulhasan"
+  and git config user.email "mdevanulhasan@gmail.com" then hit enter.
+
+* If we want to check our username and email so we will write=> git config --list then hit enter.then we will see our user and email.
+
+* If we want to clear our screen so we will write=> clear then hit enter.
+
+* If we want to see our files unstaged changes so we will write=> git status then hit enter.
+
+* If we want to track or staged any untracked files so we will write=> git add filname.txt then hit enter.(staging area)
+
+* If we want to track or staged our all files without any filename type. then we will write=> git add --all or git add . then hit enter.
+
+* If we want to take any file staging area to local repository. now we will commit. so we will write=> git commit hit enter then click i and
+  now we will see our command plate bottom side insert and now we should write our commit massege(For example=> 2 text file added). then 
+  click esc then we will write :X then hit enter. this is our commit broad way.
+
+* Here we will see our shortcut commit way=> git commit -m "chocolate added" then hit enter.
+
+* If we want to see our all commited files so we will write=> git log hit enter. this is broad description way.
+
+  And here we will see our all commited files in compact way or shortcut way. so we will write=> git log --oneline hit enter.
+
+* If we want to check our modify file so we will write any file and then we will check in command line like=> git status hit enter, git add . ,
+  git commit -m "modified text added" hit enter, git log --oniline hit enter.
+
+* If we want to go to our previous situation or place so we should write=> git checkout previous commit short code paste hit enter.
+
+* If we want to know that, how many changes happen in our specific file so we should write=> git diff hit enter.
+
+* If we want to know any specific file changing history. so we should write=> git show desired file short code hit enter.
+
+* If we want to know our multiple file difference. so we should write=> git diff short code short code hit enter.
+
+* when we will change in our file then if we staging our file and don't commit our file so we can't show our git diff.
+  then we will write=> git diff --staged hit enter.
+
+* If we delete any file so we can't delete in our file manager then we shall delete in command line=> git rm filename.txt hit enter.
+  And then we should unstaged this file=> git reset HEAD filename.txt hit enter.now check git status.
+
+** At that moment we will push our local repository to remote repository. so we should do it=> at first create a repository in our github
+  account and then there we will get a three link web page there second link we will click to copy the link then paste this link 
+  in our command line afterwords we will see our next step a new line then hit enter.now we should reload our github new repository 
+  page then we will see our created files there shown.
+
+* When we want to close our recent git repository so we should switch off our git. so we will go in credential Manager and remove our
+  github account.then create another git repository.
+
+* If we want to bring our remote repository files in our computer so we should go to our github account repository then copy our
+  repository clone option click copy and then we should go our desired area where we want to copy our repository files. then open
+  git bash terminal then write=> git clone paste this link hit enter.
+  
+  And if we want to clone our repository files other name so we should write=> git clone paste this link then space new file name hit enter.
+
+* If we want to change our remote repository so we will go to our remote repository then change any file text then go our local 
+  repository open our changing file here nothing is changed so if we want to watch our change so we should open our git bash plate.then 
+  write git status hit enter then write git fetch hit enter.and then write git pull hit enter.now our file will visible our changing 
+  texts.
+
+* If we want to create any file with our command line so we should write=> touch filename.txt hit enter.
+
+* If we want to edit our files with our vs code editor so we should write=> code space dot (code .) hit enter.
+
+* If we want to create any new branch so we should write=> git branch branchname hit enter. then check our branches=> git branch hit enter.
+
+* If we want to switch out another branch so we should write=> git checkout branchname hit enter. to check our current branch=> git branch 
+  hit enter.
+
+* If we want to create a new branch beside open this new branch. so we should write=> git checkout -b newbranchname hit enter.
+
+* If we want to delete our any branch so we should write=> git branch -D branchname hit enter. check this=> git branch hit enter.
+
+* If we want to merge our multiple branch together. so at first we should go to our master branch then we will write=> git merge another
+  branch name then hit enter.
+
+* If we want to hide our unstaged code is any file so we should write=> git stash hit enter.
+
+* If we want to show our unstaged code stash code. so we should write=> git stash pop/apply hit enter.
+
+* If we want to delete our untracked files so we should write=> git clean -f -n hit enter. again write=> git clean -f hit enter.

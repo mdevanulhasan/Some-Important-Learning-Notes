@@ -1,0 +1,83 @@
+*** Git bash command in short:
+
+1) git --version (for knowing our git version).
+
+2) git init (for git folder initialize/ for create git repository).
+
+3) git status . (for checking repo changes).
+
+4) git add . / git add --all (for staging area changes).
+
+5) git commit -m "any text" (for write commit message).
+
+6) git log --oneline (for watching all commits together).
+
+7) git branch -m main/master (for declare final-name branch).
+
+8) git remote add origin https://github.com/username/repo-name.git (for pushing declare our new remote repo location).
+
+9) git push -u origin main/master (for pushing our final project in remote repo).
+
+*** Git Others command in short:
+
+1) git branch branch-name (for create a new branch).
+
+2) git checkout commit code/ branch name (for change our branch or staging area).
+
+3) git branch (for checking our branch number or name).
+
+4) git clone https://github.com/username/repo-name.git (for clone any project in anywhere).
+
+5) git fetch (for bring remote repo changes in our local repo unstaging area).
+
+6) git pull (for bring remote repo changes in our local repo staging area).
+
+*** Some general command:
+
+1) mkdir folder-name (for making any folder).
+
+2) rmdir folder-name (for delete any folder).
+
+3) rm -rf folder name (for delete any folder which folder contain anything).
+
+4) echo > file-name.txt (for create any file).
+
+5) echo 'write some text' >> file-name.txt (for create any file with some text).
+
+6) echo "write some text" >> file-name.txt (for replace any file text).
+
+7) rm file-name.txt (for delete any file).
+
+8) cd .. (for change any directory single step).
+
+9) cd ../.. (for change any directory multiple step).
+
+10) cd\ (for going our root directory).
+
+11) cd tab (for go any unspecific directory).
+
+12) cd first letter tab (for go any specific directory).
+
+13) ls (for knowing our directory items).
+
+14) clear (for clean our terminal window).
+
+15) exit (for quit our terminal window).
+
+*** Git Vim command:
+
+1) vi (for knowing our vim details).
+
+2) vi file-name.txt (for watching our file text in widenly).
+
+3) vi file-name.txt then click i (for write any text in our file).
+
+4) ESC (for stop our writing text).
+
+5) :w (for save our writing text).
+
+6) :q (for quit our writing text).
+
+7) :wq (for save and quit our writing text together).
+
+8) cat file-name.txt (for watching our file text in shortly).

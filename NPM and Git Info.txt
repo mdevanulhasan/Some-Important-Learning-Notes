@@ -1,0 +1,131 @@
+At first we will go to our main project folder then, create a starter pack then, 
+click mouse right button, and choose git bash here, our first command in git, 
+1) npm init, then enter, 
+2) give a description name, then enter, 
+3) give a author name, then 
+4) give a lisence MIT enter, 
+5) enter or ctrl + c, then open our starter pack in vs code editor, 
+6) code space . then enter, our package.json file will open in vs code editor, 
+our dependencies file (bootstrap, jquery, popper.js, font-awesome) will download
+automatically with git command prompt, 
+7) npm install bootstrap@4.5.2 jquery@3.5.1 popper.js font-awesome html5shiv --save then enter, now a
+folder will create in our code editor which name is node_modules, in this folder
+have bs, jq, fa, po files and we will see in package.json file added some line:
+dependencies...
+8) npm install gulp browser-sync gulp-sass --save-dev then enter, now here we will see
+some other new lines: devDependencies... if we dont see this lines so, we should close
+package.json file and again open this package.json file, 
+9) now we will create src folder(this our root folder) in starter pack or node_modules
+beside this folder,
+10) then create some folder and files in our src folder,
+    i) a index.html file
+    ii) a css folder
+    iii) a img folder
+    iv) a js folder
+    v) a scss folder (in this folder we will create style.scss file)
+11) then we will create gulpfile.js file in starter pack or node_modules beside this
+folder, now we will copy paste gulpfile codes and check this four things file location,
+12) our next command, gulp then hit enter button. here we will see our vs code
+editor, js and bs folder has contain some files. For example: bootstrap.min.css,
+bootstrap.min.js, jquery.min.js, popper.min.js
+13) Here we are facing a new problem which is, when we give gulp command then it
+won't work properlay, there showing a message: gulp file not found.
+then we are giving two new command=>
+   i) npm uninstall --global gulp gulp-cli
+   ii) npm install --global gulp-cli
+then again give gulp command. now this is working properly.
+14) if we want to give any command again or have any command problem so we will do,
+ctrl + c, then we can give our next command.
+15) when we close our project work, then again start this project so we should do,
+mouse right click git bash here=> give command, code .=> give command, npm start
+hit enter.right now we can watch our project in our default browser and edit all
+code with vs code editor.
+(
+obviously we should change our package.json file 
+"scripts": {
+    "start": "gulp"
+  },
+)
+
+<========================= gulpfile.js codes given below ========================>
+
+// Please flow this steps
+// 1. install npm
+// 2. npm install gulp -g
+// 3. npm init
+// 4. npm install gulp -D
+// 5. npm install gulp-sass
+// 6. npm install bootstrap jquery popper.js @font-awesome/fontawesome-free --save
+// 7. npm install browser-sync
+
+const gulp = require('gulp');
+const browserSync = require('browser-sync').create();
+const sass = require('gulp-sass');
+
+// Compile SASS
+gulp.task('sass', function(){
+  return gulp.src(['node_modules/bootstrap/scss/bootstrap.scss', 'src/scss/*.scss'])
+    .pipe(sass())
+    .pipe(gulp.dest("src/css"))
+    .pipe(browserSync.stream());
+});
+
+gulp.task('watch', function(){
+    browserSync.init({
+        server: {
+          baseDir: './src'
+        }
+      });
+      gulp.watch(['node_modules/bootstrap/scss/bootstrap.scss', 'src/scss/*.scss'], gulp.series(['sass']));
+      gulp.watch("src/*.html").on('change', browserSync.reload);
+      return
+  });
+
+// Move JS Files to SRC
+gulp.task('js', function(){
+  return gulp.src(['node_modules/bootstrap/dist/js/bootstrap.min.js', 'node_modules/jquery/dist/jquery.min.js', 'node_modules/popper.js/dist/popper.min.js'])
+    .pipe(gulp.dest("src/js"))
+    .pipe(browserSync.stream());
+});
+
+// Move Font Awesome Fonts folder to src
+gulp.task('fonts', function(){
+  return gulp.src('node_modules/font-awesome/fonts/*')
+    .pipe(gulp.dest("src/fonts"));
+});
+
+// Move font awesome css file
+gulp.task('fa', function(){
+  return gulp.src('node_modules/font-awesome/css/font-awesome.min.css')
+    .pipe(gulp.dest("src/css"));
+});
+
+gulp.task('default', gulp.series(['sass', 'js', 'fonts', 'fa', 'watch']));
+
+<========================= gulpfile.js codes given above ========================>
+
+<========================= package.json codes given below =======================>
+{
+  "name": "project1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "gulp"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^4.6.0",
+    "font-awesome": "^4.7.0",
+    "jquery": "^3.5.1",
+    "popper.js": "^1.16.1"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.26.14",
+    "gulp": "^4.0.2",
+    "gulp-sass": "^4.1.0"
+  }
+}
+
+<========================= package.json codes given above =======================>

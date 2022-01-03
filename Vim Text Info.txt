@@ -1,0 +1,7 @@
+In any file, If we want to write anything with git bash.
+so, we should write=> vi anything.txt/file-name.txt
+here we can write anything.
+for write here anything=> click i button.
+for save it, we should write=> :w
+for exit it, we should write=> :q
+we can do it together, :wq

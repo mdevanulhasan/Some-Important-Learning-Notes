@@ -1,0 +1,87 @@
+*** Gulp Learning Start! ***
+
+If we want to work with gulp. so we will do some step =>
+
+01) At first we will download node.js (for npm or yarn) and git software.
+
+02) For install gulp globally => npm install --global gulp-cli
+
+03) In our project folder => npm init
+
+04) Install gulp in devDependencies => npm install --save-dev gulp
+
+05) In our project folder => create gulpfile.js file.
+
+06) Our first code => 
+    const gulp = require('gulp');
+
+    gulp.task('hello', ()=>{
+      console.log('Hello World!');
+    });
+    For output command in cli => gulp hello
+    Output will be => Hello World!
+
+    Here hello is a task name. It can be change.
+
+07) const gulp = require('gulp');
+
+    gulp.task('sample', ()=>{
+      return gulp.src('./src/sass/main.scss').pipe(gulp.dest('./dist'));
+    });
+    For output command in cli => gulp sample
+    Output will be => our sass folder elements will transfered from dist folder without modify.
+
+08) For gulp & sass task running together =>
+    const gulp = require('gulp');
+    const sass = require('gulp-sass')(require('sass'));
+    gulp.task('sample', ()=>{
+      return gulp.src('./src/sass/main.scss')
+      .pipe(sass())
+      .pipe(gulp.dest('./dist'));
+    });
+    Here we will take a variable in scss file of src > sass folder.
+    Output will be => dist folder scss file won't have any variable. here have only styling. It's modified.
+
+09) For compile sass folder all files and transfer as a minified version.
+    const gulp = require('gulp');
+    const sass = require('gulp-sass')(require('sass'));
+    gulp.task('sample', ()=>{
+      return gulp
+      .src('./src/sass/**/*.scss') // Here **/ symbol will compile all folder and file together.
+      .pipe(
+          sass({
+          outputStyle: 'compressed'
+      }).on('error', sass.logError))
+      .pipe(gulp.dest('./dist'))
+      .pipe(browserSync.stream({
+          reload: true
+      }));
+    });
+
+10) For browser sync => 
+    gulp.task('server', ()=>{
+      browserSync.init({
+          server: {
+              baseDir: './dist'
+          }
+      })
+    });
+11) For transfer any html file to another folder =>
+    gulp.task('html', ()=>{
+      return gulp.src('./src/*.html')
+       .pipe(gulp.dest('./dist'));
+    });
+
+12) For watch all js and sass file => 
+    gulp.task('watch', ['server'], ()=>{
+      gulp.watch('./src/sass/**/*.scss', ['sass']);
+      gulp.watch('./src/js/**/*.js', ['js']);
+    });
+
+13) For transfer any js file to another folder =>
+    gulp.task('js', ()=>{
+      return gulp.src('./src/js/**/*.js')
+      .pipe(gulp.dest('./dist'));
+    });
+
+14) 

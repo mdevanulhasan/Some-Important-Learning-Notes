@@ -1,0 +1,31 @@
+Here we will see that, how can we deploy our any project in github:
+
+1) At first, we will go to our project root folder then mouse right click then, select git bash here.
+
+2) And then, write=> code . (For open our project in vs code editor);
+
+3) And then, write=> npm init -y (For creating our package.json file);
+
+4) And then, write=> npm i gh-pages (For add our dependencies.like=>node_modules,
+   under the package.json file=> "dependencies": {"gh-pages": "^3.1.0"});
+
+5) And then, write in the package.json file=> above the "dependencies":{"gh-pages": "^3.1.0"}=>
+   "homepage": "https://mdevanulhasan.github.io/Deployment-Projects",
+
+6) And then, replace some text in package.json file=>
+   "script":{ 
+      "deploy": "gh-pages -d dist" instead,
+      "test": "echo \"Error: no test specified\" && exit 1"
+    }
+
+7) Before push our project we should create a .gitignore file in root folder.
+   (For not push our node_modules folder);
+
+8) Right now, we will create a github repo and push our project(git init to git push).
+
+9) To deploy the gh-pages, we will write=> npm run deploy
+
+10)Then we will reload our github page, then we will see there have 2 branch.
+   like=> main and dist/src/anyRootFolder.
+
+[Note: For write all codes, we can use git bash or vs code terminal.]

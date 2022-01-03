@@ -1,0 +1,82 @@
+* We can open command prompt window by using run option. keyboard shortcut window button + r click and
+write cmd and hit the enter button. then we can change our font size in cmd window=> mouse right click
+and go to font option and change our font size.
+
+* We can change our font color and background color in cmd window with write color/? and hit enter.
+  here we can see our font color and background color list. left side list is background color and 
+  right side list is font color. so when we want to change our user interface then we just type 
+  color one space and color code. For Example=> color 0A hit enter.
+
+* When we want to clear our window all text then we write cls and hit enter.
+
+* we can see that, how to watch all file name in a folder. we should go any folder then type dir and
+ hit enter button. Then we can see all folder name. For Example=> C:\Users\dir then click enter.
+
+* If we want to access a foler so we should type drive name semi colon backslash and write folder name
+  and hit the enter button. For Example=> d:\>cd All of text files then click enter.
+
+* If we want to see our hidden files so we should write=> d:\All of text files>dir/a then hit enter.
+
+* If we want to create any folder so we should write=> d:\All of text files>mkdir one space folder name
+  then hit the enter button.here mk = make and dir = directory.
+
+* If we want to backwards our single directory so we should write=>c:\Users\mdevan>cd one space and double
+  full stop and then click enter button.
+
+* If we want to double step backwards so we should write=>c:\Users\mdevan>cd one space and double full
+  stop slash double full stop then enter.
+
+* If we want to delete any folter so we should write=>c:\rmdir space folder name then hit enter.
+  here rm = remove and dir = directory.
+
+* If we want to select any folder we don't want to write this folder name just go to the directory and
+  then click tab button. For Example=> c:\cd space click tab button.
+
+* If we want to select any specific types of folder so we should write=>c:\cd space a then click enter
+  then we will see all of a type of folders.
+
+* When we want to delete any folder which folder have many file. we should write=>
+  d:\All of text files>rmdir space slash s space folder name then hit enter.
+
+* If we want to create any file so we should write=>d:\All of text files>echo space greater than sign
+  write file name and full stop and file extention then click enter.
+
+* If we want to write any text in any file so we should write=>D:\All of text files>echo space texts
+  greater than file name and file extention then hit enter.
+
+* If we want to overwrite any text in any file so we should write=>D:\All of text files>echo space texts
+  double greater than space file name and extention. then click enter.
+
+* We can open any folder by writing=>D:\All of text files>cd space folder name then enter.
+
+* We can replace any text by writing=>D:\copy a.txt space b.txt then enter. here a.txt file texts
+  will overwrite b.txt file.
+
+* If we want to rename our file name so we can write=>D:\All of text files>move b.txt new.txt then 
+  enter.
+
+* If we want to copy any dir ful details so we should write=>C:\Users\mdevan\Desktop>dir >> a.txt
+
+* If we want to delete any file so we should write=>D:\All of text files>del a.txt
+
+* If we want to read any text file in cmd prompt so we should write=> D:\All of text files\type space a.txt then click enter.
+
+* If we want to move any folder to other folder so we should write=> D:\All of text files\move Dhaka Bangladesh hit enter.
+
+* If we want to search any specific type of file so we should write=>D:\All of text files\dir *.txt/othter extention hit enter.
+
+* If we want to see our all drive name so we should write=> D:\All of text files\wmic space logicaldisk space get space name hit enter.
+
+* If we want to see any drive or any Folder elements like a tree shape so we should write=>D:\tree space hit enter.
+
+** If we want to hide our any folder so we should write=> D:\>attrib +h +s +r folder name and again if we want to 
+  back our that folder so we should write=> D:\>attrib -h -s -r folder name hit enter.
+
+* If we want to watch any software installed or watch any software version we should write=> D:\>software name double hyphen write version
+  and hit enter.
+
+* If we want to go to our main root drive so we should write=> D:\All of text files\Anything\cd backslash hit enter.(cd\)
+
+* If we want to know any website IP Address so we should write=> D:\All of text files>nslookup space bdjobs.com hit enter.
+
+* If we want to know our full time opening history of cmd prompt so we should write=> D:\Anything>doskey/history.
