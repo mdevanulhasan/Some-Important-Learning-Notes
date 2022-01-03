@@ -1,0 +1,22 @@
+Front End Web Development => HTML, CSS, Javascript(React js at first and then others), Jquery (all plugins), Responsive Design Fundamentals,
+                             Bootstrap, PSD To HTML, UI/UX Design. (Static web developer)
+
+Back End Web Development => PHP / Python / Ruby / Node JS, Wordpress / Laravel, Git. 
+                            Here If we want to learn any programming language, like- PHP / Python / Ruby / Node JS etc.
+                            So, we should learn at first c programming. because c programming is mother of any programming
+                            language. As a matter of fact, if we learn c programming before learning any programming 
+                            language, so our learning process will be too much easy. (dynamic web developer)
+
+Full Stack Web Development => Above the discussion, we were learned that, how to become a front end web developer and 
+                              back end web developer. Now we will be knowing that, how to become to full stack web developer.
+                              If we want to be a full stack web developer, so we should be done both things is that was we learn
+                              our previous discussion. That means front end web development and back end web development combined
+                              from a full-stack web developer. (Static + Dynamic both)
+
+Also we should learn => (i)If we want to learn back end. so we should learn that, how to call any data and how to passing a data.(API Call)
+                        (ii)then we should learn of debt tool.which helping to fix any html/ css/ javascript problem.
+                        (iii)then we should learn that, what is IDE?
+                        (iv)we should learning Github, debugging. 
+                        (v)Jhankar mahbub recommended 3 ide => sublim text editor, atom text editor, visual studio code install and use.
+                           programming best experience is copy paste. like- watch any coding video and copy paste own editor.
+                        (vi)jhankar Mahbub Book => programming er bolod to boss.

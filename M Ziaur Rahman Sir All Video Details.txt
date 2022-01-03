@@ -1,0 +1,2087 @@
+﻿
+
+
+                           Freelancer Bangladesh Responsive Web Design & SEO 1st Batch
+
+                                         Our Mentor: M Ziaur Rahman
+
+                                   All Videos Details Is Given Below:
+
+
+Class-1=> #vdo:01.About_this_sector: *Introducing this course, web design and other important things.
+
+          #vdo:02.HTML_01: *Introducing web page elements.As like: text, image, video, links.
+
+                           *How to create a web site.
+
+                           *On Screen Keyboard using system.
+
+                           *Introducing File Extention and Showing File Extention.
+
+                           *Introducing <h>, <p>, <b>, <br />,<img>, <input> tags.
+
+          #vdo:03.HTML_02: *<h> and <p> tag is block-level element or, <b> tag isn't block-level element.
+
+                           *Introducing that, what is tag, atributes and how to creating link any text.
+
+                           *Introducing title, href atributes and <a> tag.
+
+                           *Introducing target atributes and value=(_self:Here if we reload then we can see that, 
+                           same tab showing.<by default value> ,_blank:next other new tab reload multiple time,
+                           self:next other new tab reload one time ).
+
+                           * _ this symbol name is underscore self.
+
+          #vdo:04.HTML_03: *Introducing w3schools.
+                        
+                           *Idea of atribute and web site. 
+                           
+                           *Using img tag and src, alt, width atributes.
+
+                           *Under multiple folder images link process.
+
+                           *How to back our previous folder this process for image show.
+
+                           *How to creating link any images.
+
+Class-2=> #vdo:02.HTML_04: *Here We can see that, How to show All kinds of file name extention.so that,For the convenience of the work.
+
+                           *Introducing heading tag. As like: h1, h2, h3, h4, h5, h6.
+ 
+                           *Introducing html file comments system.As like: <!-- anything -->
+
+                           *Introducing style atributes.For Example: color: red; background: yellow;
+
+                           *Introducing View Page Source.Shortcut Keyboard command: ctrl+u.
+
+                           *Introducing Inspect Element.Shortcut Keyboard command: ctrl+shift+i.l
+
+                           *Practising Inspect Element.
+
+          #vdo:03.HTML_05: *Introducing Notepad++ Editor and Practising it.
+
+                           *Introducing index.html / .html extention.
+
+                           *same line multiple writing shortcut process: ctrl+d.
+
+                           *html file comments shortcut system: ctrl+k.
+
+                           *and also learn comments out system: ctrl+shift+k.
+
+                           *customize our Notepad++ Editor.
+ 
+                           *At first we should go to settings > preference > Editing > *Enable Multi Editing settings.
+                            In this settings: we can write code together multiple line.It's called multi line editing.
+
+                           *Then, settings > preference > Editing > check the *Display line number.
+
+                           *If any line will too large so, we should go View > word wrap.
+                            In this settings: we can wrap too large line in visible area.
+
+                           *Then, settings > preference > Editing > check the *Display bookmark and *Enable current line highlighting.
+
+                           *Here we also learn if our pc installed avro keyboard. so, we can write bangla of pressing f12 button.
+
+                           *Then, settings > preference > Highlighting > *Enable smart Highlighting and *Highlight Maching tags.
+
+                           *Then, settings > preference > Auto-completion > *Auto Insert > check the "", '', (), {}, [], html/xml close tag.
+
+                           *Second settings: settings > style configurator > select theme > black board/any one.
+                            and we also customize our selected theme by global styles: check the *Enable global options.
+
+                           *Here we can see many kinds of customization in this settings.
+
+          #vdo:04.HTML_06: *Here we can see that, how to write a html code.For Example: 
+                            <html>
+                                <head></head>
+                                <body></body>
+                            </html>
+
+                           *html tag contain two types of tag: i) head. ii) body.
+
+                           *Here we write html-5 version code.
+
+                           *Introducing title tag.
+
+                           *Watching that, how to write a proper way writing standard code.
+
+                           *Introducing ul and ol tag. and li tag.
+
+                           *Introducing hr tag.here hr = horizontal rule break.
+
+
+                           *Introducing w3 validator.link=> https://validator.w3.org
+                            here we should go: validate by Direct Input.
+
+Class-3=> #vdo:01.class3_intro: *Here we can see that, how to give any problem post and solution.
+
+                                *Here we can see that, how to take a screenshot.
+
+                                *Here we can see that, which day we will submit our assignment.(sunday)
+
+          #vdo:02.npp_configure_2: *Here we can see that, which version notepad++ we should install.(7.5.9)
+
+                                   *we can see that, how to run any browser shortcut key.
+    
+                                   *Process=> run>click(...)>then write one space and write "$(FULL_CURRENT_PATH)">
+                                    then click save here we will give browser name or anyname and give any shortcut 
+                                    key. like- ctrl + alt + 0/anykey. Now we can run our code in this editor with the
+                                    help of this shortcut key.
+
+                                   *Here we can add any browser and delete any browser.
+
+           #vdo:03.HTML_07: *Here we can see that, What is a web page logo and a web page Elements.
+
+                            *we can introducing w3schools.com it gives us editing option there we can write
+                            code and watch our output.
+
+                            *we should use h1 tag only one time in our webpage.which word use only one time there
+                             we will use h1 tag. And We give other place h2 tag or any heading tag.
+
+                            *Here we can learn what is paragraph tag and preformatted tag. where we want to show our
+                             browser output same in text editor where we will use preformatted tag. here pre tag 
+                             by default use courier font.
+
+                            *we should give every tag starting tag and closing tag.
+
+                            *Here we can see that, what is html structure and how to use.
+
+                            *Here we can see that, many kinds of text-formatting.
+                             like=> b = bold text, strong = important text, i = Italic text, em = Emphasized text,
+                                    mark = Marked text(mark by default color value is yellow), small = Small text, 
+                                    del = Deleted text, ins = Inserted text, sub = Subscript text, sup = Superscript text.
+
+                            *Here we can see that, how to a single line comment and multiple line comment.
+                             <!-- single line comment --> <!--
+                                                              Multiple 
+                                                              line
+                                                              comment
+                                                           -->
+
+                            *shortcut comment process is=> ctrl+k and comment out ctrl+shift+k.
+
+                            *we can see how to wrap our huge text. process=> view>click word wrap option.
+
+                            *If we want to style any specific text diferrently so we can use span tag.
+
+          #vdo:04.HTML_08: *Here we can see what is title. title tag contain a webpage title name.
+
+                           *Here we can see that, how to link multiple html file in same root with <a> tag and <ul> tag.
+
+                           *Introducing list and sublist. here we can see how to create a sublist under a list.
+                            like=> <ul>
+                                      <li>
+                                         anyting
+                                         <ul>
+                                            <li></li>
+                                            <li></li>
+                                            <li></li>
+                                         </ul>
+                                      </li>
+                                      <li></li>
+                                      <li></li>
+                                   </ul>
+
+                            *Here we can see, unordered list(ul) and ordered list(ol).
+
+                            *we should not write under ul tag of ol tag and under ol tag of ul tag.
+
+                            *Here we can see that, how to connect any folder placement with link.
+                             like => one folder back to ../ and double folder back ../../
+
+                            *url full form = uniform resource locator.
+
+                            *https full form = hyper text transfer protocol secured.
+
+                            *www full form = world wide web.
+
+                            *when we write ul or ol list then we can write under ul or ol tag (<ul type="disc"></ul>)
+                             and we also write with css property list-style-type: disc, circle, square, none.
+
+                            *we can write many types of ol list. like => <ol type="1, a , A , I, i"></ol>
+
+                            *we can start any ol list type. like => <ol type="1" start="5"></ol>
+                             here our output is ol list start at number 5.here type will change but start obviously be number.
+
+                            *we can see, description list(<dl></dl>), description term(<dt></dt>) and <dd> tag is describe each <dl> tag.
+
+                            *we can see, qutation tag => <q>Bangladesh</q>, here output is "Bangladesh".
+
+                            *we can see, <blockquote> tag. this tag is used to define a different section.
+
+                            *we can see, <abbr> tag with title attribute.(1.25.0min)
+
+                            *If we want to write any address, so we can write <address> tag.
+
+                            *Introducing <cite> tag, <bdo dir="rtl/ltr"></bdo> tag, dir="rtl/ltr" attributes.
+
+                            *Introducing lorem ipsum website.(lipsum.com). In this website we can take some free paragraph words.
+
+                            *Atom, Brackets, Notepad++, VS code, Sublime Text. This is some famous text editor for web programming.
+
+Class-4=> #vdo:01.class4_intro: *Here this video we can see that, how to go ahead our track.
+
+                                *Here M Ziaur Rahman sir says that, we should achive many kinds of skill. we should be skilled person.
+                                  
+                                *He says that, we should research many kinds of topic.
+
+          #vdo:02.HTML_09: *Here we can see that, using <a> tag we can give anything link. like=> any section, any local image/audio/video
+                            file location, any server file location etc.
+
+                           *<a href=""></a> here href full form is h = hyper, ref = reference.
+
+                           *we should use id in a unique section and we should use class in all common section.
+
+                           *Here we can see that, how to connect multiple html file in different file location.
+
+                           *If we don't give any <a> tag href attributes value i mean value is null. so, 
+                            when we click any link we don't move any other location. we will stay same page.
+
+                           *when we create a menu in our web page, we were use ul li tag and linking every page with <a> tag.
+
+                           *Here we introducing <div> tag. which means division. this div is block element.
+
+                           *Here we can see id attributes. which is selected in # and id name. practising this attribute.
+
+                           *Here we can see class attributes. which is selected in . and class name. practising this attribute.
+
+                           *Here we can see, how to comment in a html file css properties. like=> in head tag we should style tag and
+                            then we should write our code and when we want to comment any property then we give, /*any property*/
+
+          #vdo:03.HTML_10: *Here we can see, how to show in a web page of image with local server or live server.
+                            If we want to show any image so, we should write => <img src="anyFileLocation" alt="anyThing" />
+
+                           *Here we can see that, how to see a image original size. mouse right click and select view image in a new tab
+                            and when we hover our mouse in our title or head section then we can see our image original size.
+
+                           *Any image size = 400 x 200 . here 400 is image width and 200 is image height.
+
+                           *Here we can see that, how to take or use any image of other site. (Click mouse right and select copy image 
+                            address/ copy image location) now this copied link we should give our img tag under src attribute.
+
+                           *we can use any image in our pc or internet location.
+
+                           *Here we can see that, how to show any mp3 file. <audio controls autoplay> <source src="" /> </audio>
+
+                           *Here we can see that, how to download any video in youtube tricky way. at first we should select a youtube 
+                            video and then copy that video link and then paste in a new tab. then this link www. erase and write ss and 
+                            then click enter.
+
+                           *Here we can see that, how to show any mp4 file. <video controls autoplay muted> <source src="" /> </video>
+
+                           *Here we should remember that, always we should give any attribute in audio or video tag.
+
+                           *Here we can learn, If we want to show any youtube or any website video in our site so we should again 
+                            copy this video link and write ss instead of www. and click enter. now we can get a download link, now
+                            we should copy this link and paste this link in our src attribute.
+
+                           *In the same way we can use any others audio file play in our site. copy download link and use this link.
+
+          #vdo:04.HTML_11: *Here we can see, how to view our code in a web browser. (ctrl+U=view page sourse)
+
+                           *M Ziaur Rahman sir says that, we should write our code in a structured way. so that, every person can 
+                            understand our code. and if we check our code in w3 validator there we can see our code errors.
+
+                           *And he also introducing html media, browset support.
+
+                           *Here we can learn iframe tag: 
+                            <iframe src="https://domain_name.extention" width="" height="" frameborder="0" allowfullscreen></iframe>
+                            here under iframe we can give frameborder attribute but it will not valid way in this time.
+                            se, here we can use style="border: none;" attributes.
+
+                           *Here we can see that, how to show a single frame multiple website loading. under iframe tag we should write
+                            name="same" attributes and multiple a tag with multiple website link given href="" attributes and target="same" 
+                            attributes.
+
+                           *If we want to show any youtube video in our site so we should click youtube video share option and copy the 
+                            iframe part and paste our code part.
+
+                           *we also show another way to a youtube video. like=> youtube video link copy and take a new tab paste the link 
+                            in this link we should erase www. and write ss then click enter button. now we can see a new look. here 
+                            we should copy the download link and paste our code. then click the enter button.now we can see a different look.
+
+Class-5=> #vdo:01.class5_intro: *Here M Ziaur Rahman sir says that,we should note down our course all class video summary.
+
+                                *Introducing meta tag. this tag contain in head tag. we give site related all information in meta tag.
+
+                                *The default character encoding for HTML5 is UTF-8.
+
+                                *UTF full form = Unicode Transformation Format.
+
+                                *To display an HTML page correctly, a web browser must know which character set to use.
+
+                                *Here we can see that, w3schools website => HTML Charset.
+
+          #vdo:02.HTML_12: *Introducing HTML Symbols.
+
+                           *Some common symbol entity: &copy; &reg; &trade; 
+
+                           *Here we can see that, how to use entitys and symbols with, entity value/ dec value/ hex value.
+
+                           *Sample code =>(& entity ;) (&# decimal ;) (&#x hexadecimal ;)
+                            here don't have any space in the code.
+
+                           *If we want to design any small part. so, we should give all element in span tag and then design.
+
+                           *Which symbols are colorful this symbol aren't be design.
+
+                           *we can see, less than and greater than sign in our display. like=> &lt; any_tag &gt;
+
+                           *If we want to give our code letter space multiple time.so, we should give &nbsp; => non breaking space.
+
+                           *Here we can see that, if we want to give another unordered list style.so, we should give our style tag,
+                            list-style-type: '\hexa value'; we should not give dec value.
+
+          #vdo:03.HTML_13(optional): *Here Introducing some number system. like=> binary 2 based (0,1) , octal 8 based (0-7) ,
+                                      decimal 10 based (0-9) , hexadecimal 16 based (0-9 & A-F) number system. 
+
+          #vdo:04.HTML_14: *Introducing table, tr, td tag.
+
+                           *we should give in table tag border-collapse: collapse;
+
+                           *Introducing th tag.which cell data we want to give bold style and center or highlighted we will give th tag.
+
+                           *tr = table row, td = table data, th = table head.
+
+                           *Introducing thead, tbody, tfoot tag.these tags are not compulsory.
+
+                           *Introducing colspan and rowspan attributes which is contain in td tag.
+
+Class-6=> #vdo:01.class6_intro: *
+
+Class-7=> #vdo:01.class7_intro: *Introducing SEO  & meta tag.
+ 
+                                *Google search engine gives every page 10 pices of website name. 
+
+                                *All meta tags contain 2 atributes.As like: name, content.
+                                 
+                                *Here most important is last meta tag: <meta name="viewport" content="width=device-width,
+                                 initial-scale=1.0" />.The viewport is the user's visible area of a web page. It varies 
+                                 with the device, and will be smaller on a mobile phone than on a computer screen.
+
+                                *Here first meta tag define=> this is html-5 version: charset=character set, 
+                                 UTF=Unicode Transformation Format, 8=bit, UTF-8 is the preferred encoding for e-mail and
+                                 web pages,Unicode is a character set. UTF-8 is encoding.Encoding translates numbers into 
+                                 binary. Character sets translates characters to numbers.
+
+                                *<meta name="description" content="here we will give web page related description." />
+
+                                *<meta name="keywords" content="Here we will give some important words, which words are as 
+                                 usual search maximum visitors.so that our website will come search engine first page." />
+
+                                * <meta name="author" content="Here we will give our website authors name.">
+
+           #vdo:02.HTML_18: *Introducing HTML-5.
+
+                            *The <!DOCTYPE html> declaration for HTML5 is very simple.The character encoding (charset) 
+                             declaration is also very simple.
+
+                            *HTML5 defines eight new semantic elements. All these are block-level elements.
+
+                            *To secure correct behavior in older browsers, you can set the CSS display property for these
+                             HTML elements to block:
+                             header, section, footer, aside, nav, main, article, figure {
+                             display: block; 
+                             }
+
+                            *CDN=Content Delivery Network.
+
+                            *The HTML5Shiv script must be placed in the <head> element, after any stylesheets:
+
+                            *HTML5Shiv script:
+
+                              <!--[if lt IE 9]>
+                                <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+                              <![endif]--> 
+
+           #vdo:03.HTML_19: *Introducing a web page different part.As like: header, nav, section, article, aside, footer. 
+
+                            *practising (header, nav, article, section, footer, details, summary, figure, figcaption.) tags.
+
+                            *Nesting: The<article> element specifies independent, self-contained content.
+                             The <section> element defines section in a document.Can we use the definitions to decide 
+                             how to nest those elements? No, we cannot!So, on the Internet, you will find HTML pages 
+                             with <section> elements containing <article> elements, and <article> elements containing
+                             <section> elements.You will also find pages with <section> elements containing <section> 
+                             elements, and <article> elements containing <article> elements.It's called nesting.
+
+                            *The <header> element specifies a header for a document or section.The <header> element should
+                             be used as a container for introductory content.
+
+                            *The <footer> element specifies a footer for a document or section.A <footer> element should 
+                             contain information about its containing element.
+
+                            *The <nav> element defines a set of navigation links.The <nav> element is intended only for 
+                             major block of navigation links.
+
+                            *The <aside> element defines some content aside from the content it is placed in(like a sidebar).
+                             The <aside> content should be related to the surrounding content.
+
+                            *The <section> element defines a section in a document.According to W3C's HTML5 documentation: 
+                             "A section is a thematic grouping of content, typically with a heading."
+
+                            *The <article> element specifies independent, self-contained content.An article should make 
+                             sense on its own, and it should be possible to read it independently from the rest of the 
+                             web site.
+                             
+                             *HTML5 Migration: Migration from HTML4 to HTML5: <div id="header">	      <header>
+                                                                              <div id="menu">	      <nav>
+                                                                              <div id="content">      <section>
+                                                                              <div class="article">   <article>
+                                                                              <div id="footer">	      <footer>
+  
+                             *The Difference Between <article> <section> and <div>: In the HTML5 standard, the <section> 
+                              element is defined as a block of related elements.The <article> element is defined as a 
+                              complete, self-contained block of related elements.The <div> element is defined as a block 
+                              of children elements.
+
+                             *HTML Coding Conventions: Web developers are often uncertain about the coding style and syntax
+                              to use in HTML. Developers were forced to write valid and "well-formed" code. HTML5 is a bit 
+                              more sloppy when it comes to code validation.
+
+                             *Be Smart and Future Proof: A consistent use of style makes it easier for others to understand 
+                              your HTML.In the future, programs like XML readers may want to read your HTML.Always keep your
+                              code tidy, clean and well-formed.
+
+                             *Use Correct Document Type.
+
+                             *Use Lower Case Element Names: Mixing uppercase and lowercase names is bad
+                                                            Developers normally use lowercase names (as in XHTML)
+                                                            Lowercase look cleaner
+                                                            Lowercase are easier to write
+
+                             *Close All HTML Elements.
+
+                             *Use Lower Case Attribute Names.
+
+                             *Image Attributes: Always add the alt attribute to images. This attribute is important when the
+                              image for some reason cannot be displayed. Also, always define image width and height. It 
+                              reduces flickering because the browser can reserve space for the image before loading.
+
+                             *Spaces and Equal Signs: HTML5 allows spaces around equal signs. But space-less is easier to
+                              read and groups entities better together.
+
+                             *Blank Lines and Indentation: Do not add blank lines without a reason.For readability, add blank
+                              lines to separate large or logical code blocks.For readability, add two spaces of indentation.
+                              Do not use the tab key.Do not use unnecessary blank lines and indentation. It is not necessary 
+                              to indent every element.
+
+                             *Meta Data: The <title> element is required in HTML5. Make the title as meaningful as possible.
+
+                             *Setting The Viewport: HTML5 introduced a method to let web designers take control over the view
+                              port, through the <meta> tag.The viewport is the user's visible area of a web page. It varies 
+                              with the device, and will be smaller on a mobile phone than on a computer screen.You should 
+                              include the following <meta> viewport element in all your web pages.
+
+                             *Use Lower Case File Names: Some web servers (Apache, Unix) are case sensitive about file names.
+
+                             *File Extensions: HTML files should have a .html or .htm extension.
+                                               CSS files should have a .css extension.
+                                               JavaScript files should have a .js extension.
+
+                             *Android Mobile Apps development required XML.
+
+             #vdo:04.CSS_01: *Introducing CSS:
+                              
+                              What is CSS?
+                              CSS stands for Cascading Style Sheets
+                              CSS describes how HTML elements are to be displayed on screen, paper, or in other media
+                              CSS saves a lot of work. It can control the layout of multiple web pages all at once
+                              External stylesheets are stored in CSS files.
+                              
+                              Why Use CSS?
+                              CSS is used to define styles for your web pages, including the design, layout and variations
+                              in display for different devices and screen sizes. 
+
+                              CSS Syntax:
+                              The selector points to the HTML element you want to style.
+                              The declaration block contains one or more declarations separated by semicolons.
+                              Each declaration includes a CSS property name and a value, separated by a colon.
+                              A CSS declaration always ends with a semicolon, and declaration blocks are surrounded
+                              by curly braces.
+
+                              CSS Comments:
+                              A CSS comment starts with /* and ends with */. Comments can also span multiple lines.
+
+                              There are three ways of inserting a style sheet:
+                              External CSS
+                              Internal CSS
+                              Inline CSS
+
+Class-8=> #vdo:01.class8_intro: *Introducing a websites different elements. A website have many kinds of elements.
+                                 we can wellknown it for this video.
+                                   
+                                *Introducing- Tabs, hover tabs, accordion, dropdown, hover dropdown, click dropdown,
+                                 navigation, top navigation, side navigation/ sidebar dropdown, subnavigation menu, mega menu.
+
+             #vdo:02.CSS_02: *Introducing CSS Colors:
+                              Colors are specified using predefined color names, or RGB, HEX, HSL, RGBA, HSLA values.
+ 
+                             *CSS Colors RGB(Red,Green,Blue) is given 16777216 different types of color.
+
+                             *We can get two types of color code: 
+                              Decimal(rgb:**, ***, **) and Hexadecimal(#******) code.
+
+                             *Here we can see, one line comment and multi line comment.
+
+                             *Introducing CSS Comment System (/*anything*/).
+
+                             *Introducing opacity(opacity:0.1-0.9 is a dimentions of brightness, or, 1 is full main color.)
+                              property.
+ 
+            #vdo:03.CSS_03: *Here we can see that, If we write inline, internal, external both side style,so we will see 
+                             inline element is effective,if inline element have anything wrong then internal element is 
+                             effective and internal element have anything wrong then external element is effective. 
+
+                            *Here we can see that, How to copy inspect element editing property of a browser.
+
+                            *If we want to comment any css property, so we should comment our valid system.
+
+                            *Here we can see that html shortcut comment system(ctrl+k) or css shortcut comment system(ctrl+k)
+                             is same.but if we html file write ctrl+k so this is not valid way.we should write css file.
+
+                            *html shortcut comment system is ctrl+k and this comment putting system is ctrl+shift+k.
+
+                            *If we give multiple color or background in a css file, so last color is effective and if we want
+                             above or another color is effective, so we should write beside this color (space!important;) then
+                             above or another color is effective.
+
+                            *HSL Value: In CSS, a color can be specified using hue, saturation, and lightness (HSL) in the form.
+                             Hue is a degree on the color wheel from 0 to 360. 0 is red, 120 is green, and 240 is blue.
+                             Saturation is a percentage value, 0% means a shade of gray, and 100% is the full color.
+                             Lightness is also a percentage, 0% is black, 50% is neither light or dark, 100% is white.
+                             so,here h is any color value and sl standard quantity is (any,100%,50%).
+                            
+                            *we can write opacity under color or background code.For Examle: rgba{**,**,**,**};hsla{**,**,**,**}
+                             here (a) means alpha channel.
+                      
+                            *we can give margin values of 4 process:
+
+                             1)when we write css file margin:0; then our all text are to be collapse.or if we give any value
+                               so this value is effect all side/ 4 side. 
+                             
+                             2)other process is,margin:** ** ** **; here 1st value is margin-top, 2nd value is margin-right, 
+                               3rd value is margin-bottom, 4th value is margin-left. 
+                             
+                             3)a different process is margin:** **; here 1st value is top, bottom and 
+                               2nd value is right, left.
+
+                             4)or last process is, when we give margin:** ** **; here 1st value is top, 2nd value is
+                               right, left and 3rd value is bottom.
+
+                           *Here padding using system is same but its different from margin.margin is using a page 
+                            positioning system or padding is using a text background positioning system. 
+ 
+                           *we can pick any color with pixie exe. shortcut key is ctrl+alt+c = copy a selected color.
+                            we also pick any color with a website: https://www.materialui.co/colors 
+
+                           * /*One line comment*/ /*
+	                                            multi line comment
+	                                          */
+
+Class-9=> #vdo:01.class9_intro: *Introducing codepen website.
+
+                                *Here we can see, how to use codepen website.
+
+          #vdo:02.CSS_05: *Here we can learn, how to use opacity in a hex color code.For Example:#****** **;
+
+                          *Introducing text-aligh:right, left, center;
+
+                          *Introducing border-top/ right/ bottom/ left:width style color;
+
+                          *Introducing border-width/ style/ color:** ** ** **;here 1st value is top, 2nd value is right, 
+                           3rd value is bottom and 4th value is left.
+
+                          *Introducing border-rigth-color:**; border-left-style:**; border-top-width:**;
+
+          #vdo:03.CSS_06: *Introducing many kinds of border style. As like: solid, dotted, dashed, double, groove, ridge,
+                           inset, outset.
+
+                          *Here we can write single border style or multiple border style. As like: border-style:**; or 
+                           border-style:** ** ** **; here 1st value is top, 2nd value is right, 
+                           3rd value is bottom and 4th value is left.
+
+                          *We also learn background-clip:content-box; background-clip:border-box; background-clip:padding-box;
+
+          #vdo:04.CSS_07: *Introducing outline.For Example: outline:width color style;
+
+                          *Introducing border:width color style;
+
+                          *Introducing outline-offset:**; here plus value is effect of outer border and minuse value is 
+                           effect of inner border.
+
+          #vdo:05.CSS_08: *Practising border-radius. For Example: border-radius:** ** ** **;
+
+                          *Practising border-width. For Example: border-width:** ** ** **;
+
+                          *Practising border-color. For Example: border-color:transparent ** ** **; here transparent 
+                           is a hidden color value.
+
+                          *Here we introduce hover and transition. And we are practising this property.
+
+                          *Here we can see that, how to create a nice button with hover effect.
+
+                          *border-radius: tl  tr   br   bl;
+                           border-radius:20px 0px 20px 0px;
+                           border-radius: tl  tr,bl  br;
+                           border-radius:20px 10px  40px;
+                           border-radius:tl,br tr,bl
+                           border-radius:40px 0px;
+
+Class-10=> #vdo:01.CSS_09: *Here we introduce some block level elements.As like:<div>, <h1>-<h6>, <p>, <article>, <aside>,
+                            <fieldset>, <figcaption>, <figure>, <footer>, <form>, <header>, <hr>, <li>, <main>, <nav>, <ol>,
+                            <pre>, <section>, <table>, <ul>, <video>.
+
+                           *we also introduce some inline level elements.As like:<a>, <b>, <span>, <br>, <abbr>, <bdo>, 
+                            <big>, <button>, <em>, <i>, <img>, <input>, <label>, <q>, <select>, <small>, <strong>, <sub>,
+                            <sup>, <textarea>.
+
+                           *We will give in every css files: *{
+                                                               margin:0;
+                                                               padding:0;
+                                                               box-sizing:border-box;
+                                                              }
+
+                           *Introducing and practising max-width:**px/**%;
+
+                           *Introducing practising min-height:**px;
+
+                           *Introducing practising margin:auto; height:auto; width:auto;
+                           
+                           *Introducing practising display:inline; display:block; and display:inline-block;
+
+           #vdo:02.CSS_10: *Introducing display:none; visibility:hidden/collapse; 
+
+                           *Introducing min-height:10vh; here vh=viewport height.
+
+                           *Introducing text-transform:uppercase; ext-transform:lowercase; text-transform:togglecase; 
+                            text-transform:capitalize;
+
+                           *Introducing letter-spacing:1; means=original line spacing, letter-spacing:0.005px;
+
+                           *Introducing word-spacing:3px/*; line-height:1.5em/*;
+
+                           *Introducing text-indent:50px/*;
+
+                           *css file comments system:we should use comments.so that we can understood design:
+                              /*
+                               <----first sectoin---->
+                              */
+
+                           *practising: widht, height, padding, font-size:*, list-style:disc/none; max-width, min-height, margin:auto, 
+                            display:inline, display:block, display:inline-block, text-align:center, right, left, justify, section tag,div tag, 
+                            text-align-last:center/*/*.
+                            
+           #vdo:03.CSS_11: *Here we practising, how to create a menu bar by using ul, li, a tag.
+
+                           *Introducing white-space:nowrap; overflow:hidden; overflow:visible; text-overflow:ellipsis;
+
+                           *Introducing text-decoration-line:overline, text-decoration-line:underline, text-decoration-line:line-through, 
+                            text-decoration-line:overline underline line-through;text-decoration-color:yellow/*;
+
+           #vdo:04.CSS_12: *Introducing:box-shadow property, text-shadow property.
+
+                           *box-shadow: first*px;+value right side,-value left side, second*px;+value bottom side,-value top side, third*px;
+                            shadow, fourth*px; shadow padding.
+
+                           *box-shadow:0px 0px 0px 0px color inset; here shadow will effect in the box.
+
+                           *box-shadow:10px 10px 50px 10px yellow inset,10px 10px 50px 10px green,10px 10px 80px 10px red inset,
+                            10px 10px 80px 10px blue; here we can mix multiple color shadow.
+
+                           *Introducing font-family:arial; font-weight:bold; font-family:tahoma;
+
+                           *practising: /*text-shadow:r8/lft, top/btm, sdw effct, color;*/
+	                                  text-shadow:  0px     0px       0px     black,
+
+                           *text-shadow:2px 0px 0px black,
+	                               -2px 0px 0px black,
+	                                0px 2px 0px black,
+	                                0px -2px 0px black,
+	                               10px 10px 20px blue; here text shadow will effect same color and awesome.
+
+
+Class-11=> #vdo:01.emmet: *Introducing emment.
+ 
+                          *Practising codepen shortcuts: html:5=>tab, others shortcut keys have contain codepen page underline.
+
+                          *Introducing shortcut coding process.
+
+                          *Codepen important shortcut:{content} and [atribute].
+
+                          *Multiple class name and subtitle list creating process.
+
+           #vdo:02.zen-coding: *Introducing zen-coding and limitation of zen-coding.
+
+           #vdo:03.CSS_13: *Introducing title section icon.
+
+                           *Here if we want to show any icon beside the heading title.so we should done a code: under the head tag we should
+                            write link and then click ctrl+E. and we can see a link tag with atributes rel, href. here we should write 
+                            rel="icon" and href="file location. then we will see our expected output.
+
+                           *which icon we want show in heading section, there we should pick a png format file.This file should have 
+                            size=50*50, 32*32, and square shape.
+
+           #vdo:04.CSS_14: *Introducing many kinds of font family/font style. As like: serif, sans-serif etc.
+
+                           *we can give multiple font family: any tag{
+                                                                     font-family:'*','*','*',sans-serif;
+                                                                     }
+
+                           *we can use two process of font styles/font family: i)with link. and ii) without link.
+
+                           *with link files is have google fonts website.
+
+                           *And some without link font family: sans-serif, serif, arial black, arial, verdana, comic sans ms, tahoma, 
+                            trebuchet ms etc.
+                           
+                           *we can download font family files and use css files: @font-face{                          
+                                                                                           font-family:'any';
+                                                                                           src:url("file location");}  
+                                                                                    any tag{
+                                                                                           font-family:'any',sans-serif;}
+
+          #vdo:05.CSS_15: *Introducing font length.
+
+                          *font length: 2 types=> i) absolute length
+                                                 ii) relative length
+                              i)absolute length=> cm, mm, in, px, pt, pc: 
+                                                                         1 cm = 10mm, 
+                                                                         1 in = 2.54 cm, 
+                                                                         1 in = 96 px, 
+                                                                         1 px = 1/96 of 1 inch,
+                                                                         1 in = 72 pt,
+                                                                         1 pt = 4/3 px=1.333333,
+                                                                         20pt = 20* 4/3 px= 26.67 px,
+                                                                         1 pc = 12pt,
+                                                                         
+                          *Introducing font style: font-style:normal/italic;
+
+          #vdo:06.CSS_16: *Here we practising that, how to use relative length.
+
+                          *Here we practising viewport related length: vmax, vmin, vh, vw.
+
+          #vdo:07.CSS_17: *Introducing line height, em, rem.
+
+                          *full html file content font size is 16px. h2 tag font size is 24px. p tag font size is 16px. *em means multiply
+                           of any parents font size and em full meanings emmediate parents. or if we use rem so it means root file font 
+                           size is emmediate parents count.
+
+Class-12=> #vdo:01.CSS_18: *Introducing background-color, background-image, background-attachment, background-repeat, background-position, 
+                            background-size, background-origin, background-clip.
+
+                           *background-image:url{"https://www.***.com"};
+
+                           *background-attachment:fixed / scroll.
+
+                           *background-repeat:repeat / no-repeat / repeat-x / repeat-y.
+
+                           *background-position:50% 50% / center center / right top / left top / center top / right bottom / left bottom / 
+                            center bottom.
+ 
+                           *background-size:*px / *px *px / same px same px / **px auto / auto **px / contain / cover.
+
+                           *background-origin:padding-box / content-box / border-box.
+
+                           *background-clip:content-box / padding-box / border-box.
+
+                           *practising font-size:*, font-weight:bold, width, margin, border, padding.
+
+            #vdo:02.CSS_19: *Here we practising background related somethings.
+
+                            *Here we can see that, how to use and customize multiple image in a place. 
+                             As like:background-image:url(""),url(""),url("");
+                                     background-repeat:repeat,no-repeat,repeat;
+                                     background-position:top,left,0% 0%;
+                                     background-size:auto 100%,100px auto,100% 100%;
+
+            #vdo:03.CSS_20: *Introducing background-image:linear-gradient(**,**,**,**,**...);
+
+                            *Here we introduce background color directions: 
+                               i)to top left, to top right, to bottom left, to bottom right, to left, to right, to top, to bottom.
+                              ii)0deg,30deg,-70deg.
+                             iii)0rad,30rad,-70rad.
+
+                            *Here deg=degree,rad=radient.
+              
+                            *practising some important rgba values:
+                             1)rgba(255,0,0,1)=red.
+                             2)rgba(0,255,0,1)=green.
+                             3)rgba(0,0,255,1)=blue.
+                             4)rgba(0,0,0,1)=black.
+                             5)rgba(255,255,255,1)=white.
+                             6)rgba(255,255,0,1)=yellow.
+
+                            *background-image:linear-gradient(
+                                                              90deg,
+                                                              red 0%,red 30%,
+                                                              green 30%,green 50%,
+                                                              purple 70%,
+                                                              yellow 90%
+                                                             );
+                         
+                            *Here we can see that how to use multiple linear gradient and image. As like:
+                             background-image:
+                                              linear-gradient(
+                                              90deg,
+                                              rgba(255,0,0,.3),
+                                              rgba(255,255,255,.5),
+                                              rgba(255,255,0,0.4)
+                                              ),
+                                              linear-gradient(
+                                              45deg,
+                                              rgba(180,100,250,0.1),
+                                              rgba(0,0,255,1)
+                                              ), 
+                                              url("https://tse4.mm.bing.net/th?id=OIP.67xJuHreWQ5uCxPkp-wN8wHaFn&pid=Api&P=0&w=224&h=171");
+                                              background-repeat:no-repeat;
+                                              background-size:100% 100%;
+                                                
+            #vdo:04.CSS_21: *Introducing background-image:repeating-linear-gradient, radial-gradient, repeating-radial-gradient, ellipse, 
+                             circle, circle at 50% 50%, circle closest-side at 50% 50%, circle farthest-side at 50% 50%, 
+                             ellipse closest-side at 50% 50%, ellipse farthest-side at 50% 50%, ellipse closest-corner at 50% 50%,
+                             ellipse farthest-corner at 50% 50%.
+
+                            *practise circle at 80% 30%,Here first percentage 80% is right side direction or 20% is left side direction and
+                             second percentage 30% is top direction or 80% is bottom direction.
+
+Class-13=> #vdo:01.CSS_22: *Introducing CSS Icons.
+
+                           *we can use two types of icons. As like: i) Font Awesome Icons. ii) Google Icons. 
+
+                           *CDN=content delivery network. CMS=content management system.
+
+                           *we should give class: fa and icon name.class=fas,fab,far,s=solid,b=bold,r=regular.icon name=fa-cart-arrow-down 
+                            etc.fa means font awesome.we should give a script tag in head tag:
+                            <script src="https://kit.fontawesome.com/a076d05399.js"></script>.this script tag is given w3schools. on the 
+                            other hand we can use this link:
+                            <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons"> in head tag.
+
+                           *My Own font awesome account kit code= 
+                            <script src="https://kit.fontawesome.com/5c171aa6df.js" crossorigin="anonymous"></script>
+
+                           *Font awesome link pattern: <script src="https://kit.fontawesome.com/yourcode.js"></script> 
+
+                           *We Should keep css stylesheet link tag in head section at last. so that, we will didn't face any problem in future.
+
+                           *practising different types of CSS icons.
+
+           #vdo:02.CSS_23: *Introducing CSS float.
+
+                           *float:left/right.
+
+                           *practising a design png file same copy coding.
+
+           #vdo:03.CSS_24: *practising a design png file same copy coding.
+
+           #vdo:04.CSS_25: *Introducing CSS Combinators=> descendant selector (space)
+                                                          child selector (>)
+                                                          adjacent sibling selector (+)
+                                                          general sibling selector (~)
+
+                           *Introducing=> clear: left;=> No floating elements allowed on the left side.
+                                          clear: right;=> No floating elements allowed on the right side.
+                                          clear: both;=> No floating elements allowed on either the left or the right side.***(V.V.I)
+                                          clear: none;=> Allows floating elements on both sides. This is default.
+
+                           *practising float:left, float:right;
+
+           #vdo:05.CSS_26: *Introducing CSS Layout - The position Property.As like: position:static/ relative/ fixed/ absolute/ sticky.
+
+                           *if we give position:fixed, so we should give extra two property: right,bottom/right,top/left,bottom/left,top.
+
+                           *An element with position: static; is not positioned in any special way; it is always positioned according to
+                            the normal flow of the page.HTML elements are positioned static by default.
+
+                           *An element with position: relative; is positioned relative to its normal position.
+
+                           *An element with position: fixed; is positioned relative to the viewport, which means it always stays in the 
+                            same place even if the page is scrolled. The top, right, bottom, and left properties are used to position the
+                            element.A fixed element does not leave a gap in the page where it would normally have been located.
+
+                           *An element with position: absolute; is positioned relative to the nearest positioned ancestor (instead of
+                            positioned relative to the viewport, like fixed).However; if an absolute positioned element has no positioned
+                            ancestors, it uses the document body, and moves along with page scrolling.
+
+                           *An element with position: sticky; is positioned based on the user's scroll position.A sticky element toggles
+                            between relative and fixed, depending on the scroll position. It is positioned relative until a given offset
+                            position is met in the viewport - then it "sticks" in place (like position:fixed).
+
+Class-14=> #vdo:01.CSS_27: *Introducing All CSS Pseudo Elements. As like=> ::after, ::before, ::first-letter, ::first-line, ::selection.
+
+                           *Here when we use after and before property then we should obviously use content:'*'; and display:inlin-block/
+                            block; and better practise is beside use clear:both; property.
+
+                           *Practising font-weight:bold; position:relative; position:absolute; height:100%; width:100%; border:2px solid red;
+                            margin-right:10px; border-radius:50%; background-image:linear-gradient(red,green); z-index:-3; opacity:0.4;
+                            display:inline-block; clear:both; border-top:2px solid red; border-right:*; border-bottom:*; border-left:*;
+
+           #vdo:02.CSS_28: *Introducing :root{
+                                               --anything/anyname:anyvalue,color/quantity;
+                                             }
+                           *Here we should keep this property:scroll-behavior: smooth; so that smoothly scroll by the page.
+
+                           *Introducing var();function.
+    
+                           *we can use this any color, background, padding, margin etc.
+                            As like: color:var(--anything);/ background:var(--anyname);
+
+                           *Introducing :hover{}
+
+                           *Introducing :not(any class/id/tag){
+                                                                color:***;
+                                                                background:***;
+                                                              }
+
+                           *Introducing :empty{
+                                                color:***;
+                                                background:***;
+                                              }
+
+                           *Introducing :target{
+                                                 color:***;
+                                                 background:***;
+                                               }
+                            here we can use target pseudo-class in a navigation bar.
+
+           #vdo:03.CSS_29: *Introducing :lang(any){
+                                                 color:***;
+                                               }
+  
+                           *Here this lang atributes contain under a ancor tag.
+
+                           *practising text-decoration:none; font-weight:bold; list-style:none;
+
+                           *Introducing :link{}, :visited{}, :hover{}, :active{}.
+
+                           *Note: a:hover MUST come after a:link and a:visited in the CSS definition in order to be 
+                            effective! a:active MUST come after a:hover in the CSS definition in order to be effective!
+                            Pseudo-class names are not case-sensitive.
+
+           #vdo:04.CSS_30: *Introducing :first-of-type{}, :last-of-type{}, :nth-of-type(any number){}, 
+                            :nth-last-of-type(any number){}, :only-of-type{}.
+
+           #vdo:05.CSS_31: *Introducing :first-child{}, :nth-child(any number){}, :nth-last-child(any number){}, 
+                            :last-child{}, :only-child{}.
+                            
+           #vdo:06.CSS_31: *Introducing input[type="email"] {background:any color;}
+                                        :focus {background:yellow;}
+                                        input:focus {background:any color;}
+                                        input[type='text']:focus {background:any color;}
+                                        input:invalid {background:any color;}
+                                        :disabled {background:any color;}
+                                        input:disabled {background:any color;}
+                                        :required {border:any px any style any color;}
+                                        :optional {border:any px any style any color;}
+                                        :read-only {border:any px any style any color;}
+                                        :in-range {background:any color;}
+                                        :out-of-range {background:any color;}
+                                        :checked {width:any px;background:any color;}
+
+Class-15=> #vdo:01.CSS_32: *Introducing Many Kinds of Shapes. As like: Circle, spuare, Particularly focused triangle Shapes.
+                            Using by border properties.
+
+                           *Practising :before and :after. Position: relative, absolute. border, padding, height, width etc.
+
+           #vdo:02.CSS_33: *Introducing clip-path: circle(*px at *% *%); / clip-path: circle(*% at *% *%);
+
+                           *Here (first px% is radius value, at left vlaue, top value).
+
+                           *Introducing clip-path: ellipse(50% 50%); this is default value.
+
+                           *Here first value is width value and second value is height value.
+
+                           *Practising position, height, width, z-index etc.
+
+           #vdo:03.CSS_34: *Introducing clip-path: inset(*% *% *% *%);
+
+                           *clip-path: inset(0% 0% 0% 0%); this is default value.here first percentage is top value second
+                            percentage is right value third percentage is bottom value fourth percentage is left value.
+
+                           *Introducing clip-path: polygon(
+                                                           *% *%,
+                                                           *% *%,
+                                                           *% *%,
+                                                           *% *% 
+                                                             etc
+                                                          );
+
+                           *clip-path: polygon(
+                                               0% 0%,
+                                               100% 0%,
+                                               100% 100%,
+                                               0% 100%
+                                              ); this is main structure of the box shape.here first line is top left, second
+                                                 line is top right, third line is bottom right, fourth line is bottom left.
+
+           #vdo:04.CSS_35: *Introducing transform: translatex(); / translatey();
+    
+                           *transform: translatex(positive value) = left to right.(negative value) = right to left.
+
+                           *transform: translatex(*) translatey(*); / transform: translate(*, *); 
+                            here first value is x and second value is y.
+                          
+                           *transition: *s; transition: *ms; here 1s = 1000ms, s = second, ms = mili second.
+
+                           *Here we can learn that, how to bring a box or image center in her parent.
+
+                           *position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); 
+                            this is the center  bringing rule.
+   
+           #vdo:05.CSS_36: *Introducing transform: translate(-50%, -50%) rotatex(*deg);
+                                        transform: translate(-50%, -50%) rotatey(*deg);
+                                        transform: translate(-50%, -50%) rotatex(*deg) rotatey(*deg);
+                                        transform: translate(-50%, -50%) rotatex(*deg) rotatey(*deg) rotatez(*deg);
+
+                           *Introducing transform-origin: *% *%;
+                            here first percentage is x changing side and second percentage is y changing side.
+
+                           *Here practising many kinds of animation. And using many others property.
+
+           #vdo:05.CSS_36: *Introducing transform: translate(-50%, -50%) scale(1); this is default value.
+
+                           *transform: translate(*%, *%) scale(1.5); transform: translate(*%, *%) scalex(2) scaley(1);
+                            transform: translate(*%, *%) skew(*deg); transform: translate(*%, *%) skewx(*deg);
+                            transform: translate(*%, *%) skewy(*deg); transform: translate(-50%, -50%) skew(20deg, 20deg);
+
+                           *Introducing transform: translate(-50%, -50%) skew(20deg)
+
+                           *Introducing overflow: hidden; if we want any element dont cross her parent section then 
+                            we will use overflow: hidden;
+
+Class-16=> #vdo:01.CSS_37: *Introducing 1)animation-name: anything; 2)animation-duration: *ms; 3)animation-delay: *ms;
+                            4)animation-iteration-count:4;/animation-iteration-count:infinite;5)animation-direction: normal;
+                            animation-direction:reverse;animation-direction:alternate;animation-direction:alternate-reverse;
+                            6)animation-timing-function:ease;animation-timing-function:ease-in;animation-timing-function:ease-out;
+                            animation-timing-function: cubic-bezier(n,n,n,n);animation-timing-function: linear;
+                            7)animation-fill-mode: none;animation-fill-mode: backwards;animation-fill-mode: forwards;
+                            animation-fill-mode: both;
+
+                           *here most common and useful funcion is animation-timing-function:ease or linear;
+
+                           *animation-direction: normal;here normal is by default value.here alternate is from-to and to-from.
+
+                           *here animation-fill-mode: none;here none is default value;here animation-fill-mode: backwards; 
+                            is animation-delay time effect from {} style.here animation-fill-mode: forwards; is don't effect 
+                            from{}, working at animation-delay and stoping at from{} style.here animation-fill-mode: both; 
+                            is start from style and stop from style.
+
+                           *Introducing @keyframes anything { from {...} to {...} }
+                                        @keyframes anything { 0% {...} 30% {...} 80% {...} 100% {...} }
+
+                           *here we can use instead of from = 0% and to = 100%.
+
+           #vdo:02.CSS_38: *In this video we can understand that, how to create a amazing animation.
+                            So, this video is most important for us. here we can see many types of animation.
+
+                           *With hover and without hover.(animation)
+
+                           *Practising previous videos animatoin and others properties.
+
+           #vdo:03.CSS_39: *Introducing Responsive Web Design.
+
+                           *Intriducing Toggle Device Toolbar or Responsive Design View.
+
+                           *Shortcut Key = ctrl+shift+m.
+
+                           *Introducing Media Query.Media query is a CSS technique introduced in CSS3.
+
+                           *where our design is finished there we start media query.
+
+                           *@media all and (max-width: *px) {all effects}
+
+                           *Minimum device size is 280px;
+
+                           *Here we can see that, how to create a web page responsive.
+
+           #vdo:04.CSS_40: *Introducing Responsive Web Design - Grid-View.
+
+                           *Many web pages are based on a grid-view, which means that the page is divided into columns.
+
+                           *Using a grid-view is very helpful when designing web pages. It makes it easier to place elements
+                            on the page.
+
+                           *A responsive grid-view often has 12 columns, and has a total width of 100%, and will shrink and
+                            expand as you resize the browser window.
+
+                           *Always Design for Mobile First: Mobile First means designing for mobile before designing for 
+                            desktop or any other device (This will make the page display faster on smaller devices).
+
+                           *Typical Device Breakpoints: There are tons of screens and devices with different heights and 
+                            widths, so it is hard to create an exact breakpoint for each device. To keep things simple you
+                            could target five groups:
+                            1)Extra small devices (phones, 600px and down): 
+                              @media only screen and (max-width: 600px) {...}
+                            2)Small devices (portrait tablets and large phones, 600px and up): 
+                              @media only screen and (min-width: 600px) {...}
+                            3)Medium devices (landscape tablets, 768px and up): 
+                              @media only screen and (min-width: 768px) {...}
+                            4)Large devices (laptops/desktops, 992px and up):
+                              @media only screen and (min-width: 992px) {...}
+                            5)Extra large devices (large laptops and desktops, 1200px and up):
+                              @media only screen and (min-width: 1200px) {...}
+
+                           *M Ziaur Rahman Sir says that, we should try to finished two or three pieces of media query.
+                                                          so our full design will be standard.
+
+                           *Orientation: Portrait / Landscaped: Media queries can also be used to change layout of a 
+                                                                page depending on the orientation of the browser.
+                            @media only screen and (orientation: landscape) {...}
+
+                           *M Ziaur Rahman Sir also says that, when width will be big than height it's called landscape 
+                                                               orientation.
+
+Class-17=> #vdo:01.CSS_41: *Introducing some advance background effect. As like: filter: opacity(0.4/30%); filter: grayscale(100%/50%);
+                            filter: invert(1/0.8); filter: blur(5px); filter: contrast(100%/200%); filter: sepia(100%/70%);
+                            filter: saturate(1/5); filter: drop-shadow(0 0 10px red/0 5px 2px red); filter: hue-rotate(50deg);
+                            filter: brightness(1/1.4); filter: blur(2px) brightness(1.3) invert(80%) hue-rotate(180deg);
+                            here all properties under brackets have 2 types value 1st value is default value and 2nd value is
+                            changing value.
+
+                           *here opacity is light effect.
+ 
+                           *here grayscale is black and white effect.
+
+                           *here invert is changing effect black to white and white to black.
+
+                           *here blur is a transparency effect.
+
+                           *here contrast is increasing effect of white place will be more white and black place will be 
+                            more black.
+
+                           *here sepia is looking old classic movie cover image effect.
+
+                           *here drop-shadow is similar of box-shadow.but here 4 types value is putting 1st is x-exis 2nd 
+                            is y-exis 3rd is shadow blur effect 4th is color.
+
+                           *here hue-rotate is similar of hsl(hue saturation lightness) value.
+
+                           *we should note down that,here z-index is a most important and useful property.because it will 
+                            effect main section and before, after section background color,image./fall back color.
+
+                           *Here we are practising many kind of properties.
+
+           #vdo:02.CSS_42: *Introducing that, how to get and show any video of a web page.
+
+                           *<video id="bgvideo" autoplay muted loop >
+                              <source src="any link" type="video/mp4" />
+                            </video>
+
+                           *<script type="text/javascript">
+			      var vid = document.getElementById("bgvideo");
+			      vid.playbackRate = 0.2;
+		            </script>
+
+                           *if we want any background video will play slow mode then we should done: at first we should 
+                            bring a script tag  in html file at last and body tag above. here we are get variable name of
+                            vid. then vid name playbackRate is something.
+
+                           *most probably, practising many kinds of useful css property. As like: position, overflow, 
+                            background: linear-gradient(rgba(*,*,*,*)); transform: translate(-50%, -50%); z-index: -2;
+
+           #vdo:03.Intro_of_JS_BS: *Introducing javascript and Bootstrap.
+
+                                   *JavaScript is the programming language of HTML and the Web.
+                    
+                                   *JavaScript is one of the 3 languages all web developers must learn:
+                                     1. HTML to define the content of web pages
+                                     2. CSS to specify the layout of web pages
+                                     3. JavaScript to program the behavior of web pages
+
+                                   *Web pages are not the only place where JavaScript is used. Many desktop and server 
+                                    programs use JavaScript. Node.js is the best known. Some databases, like MongoDB and 
+                                    CouchDB, also use JavaScript as their programming language.
+
+                                   *Bootstrap is a free CSS framework. Bootstrap 3 is the most stable version of Bootstrap, 
+                                    and it is still supported by the team for critical bugfixes and documentation changes.
+
+                                   *Bootstrap 4 is the newest version of Bootstrap; with new components, faster stylesheet 
+                                    and more responsiveness. However, Internet Explorer 9 and down is not supported.
+
+                                   *Bootstrap is a css framework,it's created to using by javascript.here we can using bootstrap,
+                                    huge css work become shortcut design a responsive web page. javascript have two types of
+                                    part: i) framework (bootstrap). ii) library (jQuery).
+
+           #vdo:04.JS_01: *Here we are practising JavaScript Examples.
+
+                          *By changing html content :
+                           <button type="button" onclick='document.getElementById("anyid").innerHTML = " any content " ' >Click</button>
+
+                          *By bring any image :
+                           <buton onclick="document.getElementById('anyid').src='anylink'">click here/changing image</button>
+   
+                          *By changing html attributes value:
+                           <button type="button" onclick="document.getElementById('anyid').style.color='red'">Red</button>
+                           <button type="button" onclick="document.getElementById('anyid').style.fontSize='*px'">fontSize</button>
+                           <button type="button" onclick="document.getElementById('anyid').style.display='none'">Text Hide</button>
+                           <button type="button" onclick="document.getElementById('anyid').style.display='block'">Text Show</button>
+
+                          *We can bring a window alert: we can do this work under head tag and body tag.
+                           under head tag last:
+                           <script>window.alert("Welcome To Our Site.../any alert");</script>
+                           under body tag last:
+                           <button type="button" onclick="anyid()">Done/click/anything</button>
+                           <script>
+			       function anyid(){
+			           window.alert("any alert");
+			       }
+		           </script>
+
+                          *If we want, we can use javascript in internal file and external file.
+                           internal file using body tag last position.
+                           external file keep in html and css file and it using main root anyname.js it means javascript 
+                           external file extension is .js
+                           then in html file under body tag last : <script src="anyname.js"></script>
+ 
+                          *Standard javascript file name : script.js
+                           its maximum person using this name and its most common.
+
+                          *Some people use this file name : custom.js and main.js
+
+                          *Here we can see under inspect element we can console: 
+                           var x = 12;
+                           var y = 2;
+                           var z = x - y;
+                           now if we write, x show value 12
+                                            y show value 2
+                                            z show value 10
+                           and if we want to add any text with the number:
+                                  we should write, console.log('anything '+z)
+                                                 output: anything 10
+                           or if we want to erase everything then we write : clear() and click enter.
+                           its shortcut keyboard command is ctrl+L.
+
+                          *Here we can write a script tag and show output :
+                           <script>
+                              document.write(2+3);   Output: 5
+                           </script>
+                           and other rule is :
+                           <p id="any"></p>
+                           <script>
+                              document.getElementById("any").innerHTML = 2 + 3;  Output: 5
+                           </script>
+
+                          *Here we can see js comment system : 
+                           single line comment = //anything
+                           multiple line comment = /*
+                                                    anything
+                                                    anything
+                                                   */
+                           any line last comment = anything //this is something
+ 
+                          *<p id='any'></p>
+                           <script>
+                             x=1;
+                             y=2;
+                             z=x+y;
+                             document.getElementById('ani').innerHTML = "Hello Everyone " + z + '.' + ' Hi Everyone'+'...';
+                           </script>
+                           Output : Hello Everyone 3. Hi Everyone...
+
+                          *we can do multiple tags work together: 
+                           <p id='a'></p>
+                           <p id='b'></p>
+                           <p id='c'></p>
+                           <button type="button" onclick="anyid()">CLick</button>
+                           <script>
+                              document.getElementById('a').innerHTML = 'any content';
+                              document.getElementById('b').style.color = 'red';
+                              document.getElementById('c').style.font-size = '16px';
+                           </script>
+                           here when we click the button then we can see all js action is effective.
+
+                          *if we bring our mouse above any element so, the element will change : 
+                           <button type="button" onmouseover='document.getElementById("anyid").innerHTML = "anything"'>Click</button>
+
+                          *And if we want any element bringing mouse and when mouse out then effective :
+                           <button type="button" onmouseout='document.getElementById("anyid").innerHTML = "anything"'>Click</button>
+
+Class-18=> #vdo:01.JS_02: *Introducing a popular system of var (variable) name : lowerCamelCase.
+                           For Example : myName, myFavoriteColor, myFavoriteNumber.
+                           Here we should write first word first letter small and all other word first letter became capital.
+
+                          *If we want to bring before line same code so, we should click up arrow.
+                           up arrow is above line code and down arrow is bottom line code. 
+
+                          *when we write any alphabetic word then we should give single ('') quotation or double ("") quotation.
+                           it's show undefined
+                           And when we write any numeric word then we shouldn't give any kinds of quotation. 
+                           it's show number
+
+                          *we can calculate any number as like : + - * / etc.
+                           For Example : var y = (10/5)
+                                         undefined
+                                         y 
+                                         2
+
+                          *we can compare any number as like : 
+                                         Boolean(10 > 4)
+                                         true
+                                         Boolean(10 < 4)
+                                         false 
+                                         x = 10
+                                         y = 5
+                                         Boolean(x == y)
+                                         false
+                                         Boolean(x == (y*2))
+                                         true 
+                                         Boolean((x-4) == y)
+                                         false 
+                                         Boolean((x-4) > y)
+                                         true
+                                         Boolean((x-4) < y)
+                                         false 
+
+                         *Boolean is a data type. it's two type answer: true and false.
+
+                         *var fourMultiplesFive = [5,10,15,20]
+                          undefined
+                          fourMultiplesFive
+                          (4) [5, 10, 15, 20]
+                          0: 5 
+                          1: 10 
+                          2: 15
+                          3: 20
+                          length: 4
+                          __proto__: Array(0)
+                          here index 0 = 5, 1 = 10, 2 = 15, 3 = 20.
+                          fourMultiplesFive[2]
+                          15
+                          fourMultiplesFive[3]
+                          20
+
+                         *var myFavBdPlayers = ['sakib','tamim','mashrafi','mushfiq','asraful']
+                          undefined
+                          myFavBdPlayers
+                          (5) ["sakib", "tamim", "mashrafi", "mushfiq", "asraful"]
+                          myFavBdPlayers[2]
+                          "mashrafi"
+                          myFavBdPlayers[4]
+                          "asraful"
+                          
+                         *var naam = 'bangladesh'
+                          undefined
+                          typeof naam
+                          "string"
+                          naam.length
+                          10
+                          naam.toLocaleUpperCase() / naam.toUpperCase()
+                          "BANGLADESH"
+                          naam.toLowerCase() / naam.toLocaleLowerCase()
+                          "bangladesh"
+
+                        *At last we can understood that, var anything = ['sakib'] is a typeof undefined,
+                                                         var anything = 10 is a typeof number,
+                                                         var anything = '10' is a typeof string,
+                                                         var anything = [anyting] is a typeof array,
+                                                         var anything = {anyting} is a typeof object,
+                               
+                        *var person = {
+	                     firstName : 'Evanul',
+                             lastName : 'Hasan',
+                             country : 'Bangladesh',
+	                     isBright : false,
+                             favNumber : function() {
+	                        var p = 10 + 11;
+                                console.log(p)
+                             }
+                         }
+                         typeof person
+                         "object"
+                         person['firstName'] / person.firstName
+                         "Evanul"
+                         person['lastName'] / person.lastName
+                         "Hasan"
+                         person.isBright
+                         false
+                         person.favNumber()
+                         21
+                         here person is object.and firstName :, lastName :, country : is key/property.
+                         and 'Evanul', 'Hasan', 'Bangladesh' is value.
+
+         #vdo:02.JS_03: *Introducing Modulus (%) operator.
+
+                        *<p id="demo"></p>
+                         <script>
+                            var x = 5;
+                            var y = 2;
+                            var z = x % y;
+                            document.getElementById("demo").innerHTML = z;
+                         </script>
+                         here output is : 1. because 5/2 = 2.5 but here 0.5 is extra.so it's showing 1. {(5-1)=4/2=2}
+                         my out of view, Modulus (%) is working as a divition extra part showing or remainder part.
+
+                        *<p id="demo"></p>
+                         <script>
+                            var x = 20;
+                            var y = 6;
+                            var z = Math.ceil( x/y );
+                            document.getElementById("demo").innerHTML = z;
+                         </script>
+                         here output is 4. because 20/6 = 3.33335 so here Math.ceil is  showing maximum value.
+                         For Example : 3.334 = 4 , 2.352 = 3, 5.525 = 6 etc.
+
+
+                        *<p id="demo"></p>
+                         <script>
+                            var x = 20;
+                            var y = 6;
+                            var z = Math.floor( x/y );
+                            document.getElementById("demo").innerHTML = z;
+                         </script>
+                         here output is : 3. because 20/6 = 3.33335 so here Math.floor is showing minimum value.
+                         For Example : 3.334 = 3 , 2.352 = 2, 5.525 = 5 etc.
+
+                        *<p id="demo1"></p>
+                         <p id="demo2"></p>
+                         <script>
+                            var y = 6;
+                            y++; / ++y;
+                            document.getElementById("demo1").innerHTML = y;
+                         </script>
+                         here output is 7.
+                         here y++; / ++y; is y = y + 1
+
+
+                        *<p id="demo1"></p>
+                         <p id="demo2"></p>
+                         <script>
+                            var y = 6;
+                            y--; / --y;
+                            document.getElementById("demo1").innerHTML = y;
+                         </script>
+                         here output is 5.
+                         here y--; / --y; is y = y - 1
+
+                        *<p id="demo1"></p>
+                         <p id="demo2"></p>
+                         <script>
+                            var y = 5;
+                            var x = y++;
+                            //x = y
+                            //y = y + 1
+                            var x = ++y;
+                            //y = y + 1
+                            //x = y
+                            var x = y--;
+                            //x = y
+                            // y = y - 1
+                            var x = --y;
+                            //x = y - 1
+                            //x = y
+                            document.getElementById("demo1").innerHTML = y;
+                            document.getElementById("demo2").innerHTML = x;
+                         </script> //This concept is too critical so i will review it again.(Minute:15;20-22;22 till)
+
+                        *<p id="demo1"></p>
+                         <p id="demo2"></p>
+                         <script>
+                            var y = 5;
+                            //y+=3
+                            //y = y+3
+                            //y-=3
+                            //y = y-3
+                            //y-=1
+                            //y--
+                            //y*=3
+                            //y = y*3
+                            //y%=2
+                            document.getElementById("demo1").innerHTML = y;
+                            document.getElementById("demo2").innerHTML = x;
+                         </script>
+
+                        *Introducing JavaScript String Concatenation : 
+                         <p>The + operator concatenates (adds) strings.</p>
+                         <p id="demo"></p>
+                         <script>
+                            var txt1 = "What a very";
+                            var txt2 = "nice day";
+                            document.getElementById("demo").innerHTML = '1. ' + txt1 + '<br />' + ' ' + txt2 + '.';
+                         </script>
+                         here output is : 1. What a very
+                                           nice day.
+
+                        *Introducing JavaScript String Concatenation : 
+                         <p>The + operator concatenates (adds) strings.</p>
+                         <p id="demo"></p>
+                         <script>
+                            var txt1 = "What a very";
+                            var txt2 = "nice day";
+                            document.getElementById("demo").innerHTML = '<b>' + txt1 + '</b><br />' + '<i>' + txt2 + '</i>' + '.';
+                         </script>
+                         here output is : What a very (it's showing something bold.)
+                                          nice day. (it's showing something italic.)
+
+                        *​<p>The assignment operator += can concatenate strings.</p>
+                         <p id="demo"></p>
+                         <script>
+                            txt1 = "What a very ";
+                            txt1 += "nice day.";
+                            document.getElementById("demo").innerHTML = txt1;
+                         </script>
+                         here output is : What a very nice day.
+
+                        *<p id="demo"></p>
+                         <script>
+                            var x = 10
+                            var y = 15
+                            document.getElementById("demo").innerHTML = x+' is less than '+y; /
+                            document.getElementById("demo").innerHTML = '10 is less than 15.'; /
+                            document.getElementById("demo").innerHTML = `${x} is less than ${y}.`;
+                         </script>
+                         here output is : 10 is less than 15
+
+                       *<p id="demo"></p>
+                        <script>
+                           var x = 10
+                           var y = 15
+                           var op = '+';
+                           document.getElementById("demo").innerHTML = `10 ${op} 15`;
+                        </script>
+                        here output is : 10 + 15
+
+                       *<p id="demo"></p>
+                        <script>
+                           var x = 10
+                           var y = 15
+                           var z = 5
+                           var op = '+';
+                           var ev = '-';
+                        document.getElementById("demo").innerHTML = `10 ${op} 15 ${ev} ${z}`;
+                        </script>
+                        here output is : 10 + 15 - 5
+
+                       *<p id="demo"></p>
+                        <script>
+                           var x = 10
+                           var y = 15
+                           var z = x + y;
+                           document.getElementById("demo").innerHTML = `${x} + ${y} = ${z}`; /
+                           document.getElementById("demo").innerHTML = ` The summation of ${x} and ${y} is ${z}. `; /
+                           document.getElementById("demo").innerHTML = ` The summation of ${x} and ${y} is ${z1}. and their difference is ${z2}.`;
+                        </script>
+                        here output is : 10 + 15 = 25
+                        here output is : The summation of 10 and 15 is 25.
+                        here output is : The summation of 10 and 15 is 25. and their difference is -5.
+
+                       *<p id="demo"></p>
+                        <script>
+                           var x =  window.prompt("Enter 1st Value")
+                           var y = 15
+                           var z = x - y;
+                           document.getElementById("demo").innerHTML = ` The difference value of ${x} and ${y} is ${z}.`;
+                        </script>
+                        here output is : The difference value of 20 and 15 is 5.
+
+                       *<p id="demo"></p>
+                        <script>
+                          var x =  window.prompt("Enter Your Name")
+                          document.getElementById("demo").innerHTML = ` Hello ${x}.`; /
+                          document.getElementById("demo").innerHTML = ` Hello ${x}. how are you ?`;
+                        </script>
+                        here output is : Hello ...(here ... is given name)
+                        here output is : Hello ...(here ... is given name). how are you ?
+
+                       *<p id="demo"></p>
+                        <script>
+                           var x = 5 + 5;
+                           var y = "5" + 5 + 5 + 5 + 5;
+                           var a =  5 + 5 + "5" + 5 + 5;
+                           var z = "Hello" + 5;
+                           document.getElementById("demo").innerHTML = x + "<br>" + y + "<br>" + z + '<br />' + a + '<br />' + typeof a;
+                        </script>
+                        here output is : 10
+                                         55555
+                                         Hello5
+                                         10555
+                                         string
+
+         #vdo:03.assignment: *Here our Mentor : M Ziaur Rahman sir says that, https://themeforest.net/ this site 
+                              some section we should follow and try to same design with html and css.
+
+Class-19=> #vdo:01.JS_04: *Introducing JavaScript Comparison and Logical Operators.
+
+                          *Comparison and Logical operators are used to test for true or false.
+
+                          *Comparison operators are used in logical statements to determine equality or difference between 
+                           variables or values.
+
+                          *When we compare any number of our working time. then we give two or three equal(=) sign.
+
+                          *Given that x = 5, 	equal to- x == 8-false	x == 5-true	x == "5"-true	
+                                                equal value and equal type- x === 5-true	x === "5"-false
+                                                not equal- x != 8-true
+                                                not equal value or not equal type- x !== 5-false	x !== "5"-true
+                                                                                   x !== 8-true
+
+                          *Introducing Conditional Statements
+
+                          *Conditional statements are used to perform different actions based on different conditions.
+
+                          *<p>Click the button to display a time-based greetings;</p>
+                           <button onclick="myFunction()">Try it.</button>
+                           <p id='demo'></p>
+                           <script>
+                               funcion myFunction() {
+	                           var number = 15;
+                                   var output;
+                                   if (number < 5) {
+                                   output ="khub kharap";
+                                   } else if (number < 10 ) {
+                                   output = "khub valo";
+                                   } else {
+                                   output = "motamoti";
+                                   }
+                                   document.getElementById("demo").innerHTML = output;
+                                   }
+                           </script>
+
+           #vdo:02.JS_05: *Introducing JavaScript Switch Statement.
+
+                          *The switch statement is used to perform different actions based on different conditions.
+
+                          *<h2>Javascript Switch</h2>
+                           <p id="demo"></p>
+
+                           <script>
+                           var number = 4 ;
+                           var output ;
+                           if ( number > 7) 
+                           {
+	                      output = "bhalo";
+                           }
+                           else if ( number > 5)
+                           {
+	                      output = "chole";
+                           }
+                           else
+                           {
+	                   output = "khub kharap"
+                           }
+
+                           document.getElementById("demo").innerHTML = output;
+                           </script>
+
+                          *<h2>Javascript Switch</h2>
+                           <p id="demo"></p>
+
+                           <script>
+                           var number = 12 ;
+                           var output ;
+
+                           switch (number){
+              	               case 10:
+	                       case 9:
+	                       case 8:
+		                   output =number+" peyechen bhalo";
+    	                           break;
+                               case 7:
+                               case 6:
+    	                           output =number+" peyechen chole";
+                                   break;
+                               case 5:
+                               case 4:
+                               case 3:
+                               case 2:
+                               case 1:
+                               case 0:
+                       	           output =number+" peyechen khub kharap";
+                                   break;
+                               default: 
+    	                           output =number+" peyechen Exam to 10 e chilo."
+                           }
+
+                          *<h2>JavaScript switch</h2>
+                           <p id="demo"></p>
+
+                           <script>
+                           var d = new Date().getDay()
+                           var text;
+                           switch (d) {
+                             default:
+                               text = "Looking forward to the Weekend";
+                               break;
+                             case 6:
+                               text = "Today is Saturday";
+                               break;
+                             case 0:
+                               text = "Today is Sunday";
+                           }
+                           document.getElementById("demo").innerHTML = text;
+                           </script>
+
+                          *Very Very Important For any Programming Languages Three things is JS Switch, JS Loop For, 
+                           JS Loop While.
+
+                          *Introducing JS Loop For and JS Loop In.
+                      
+                          *Under the (for) contain three things.
+
+                          *<h2>JavaScript For Loop</h2>
+
+                           <p id="demo"></p>
+                           <script>
+                               var text = "";
+                               var i;
+                               for( i=1 ; i<10 ; i++ ) {
+	                       text += i +"<br />";
+                           }
+                           /*
+                               for( i=1 ; i<=10 ; i++ ) {
+	                       text += i +"<br />";
+                           }
+                           */ 
+                           /*
+                               for (i = 0; i < 5; i++) {
+                               text += "The number is " + i + "<br>";
+                           }
+                           */
+                           document.getElementById("demo").innerHTML = text;
+                           </script>
+
+                           *<h2>JavaScript For Loop</h2>
+
+                            <p id="demo"></p>
+                            <script>
+                                var text = "";
+                                var name = 'Evan';
+                                var i;
+                                for( i=1 ; i<= name.length ; i++ ) {
+	                        text +="js.<br />";
+                             }
+                             document.getElementById("demo").innerHTML = text;
+                            </script>
+
+           #vdo:03.JS_06: *Introducing JS While Loop.
+
+                          *Loop means same task doing multiple time.(again and again)
+
+                          *<h2>JavaScript Do/While Loop</h2>
+
+                           <p id="demo"></p>
+                           <script>
+
+                           for ( var i = 0; i > 4; i++ ){
+	                      document.write( "<br /> The Number Is " + i );
+                           }
+                           var i = 0;
+
+                           while (i < 4){
+	                      document.write( "<br /> The Number Is " + i );
+                              i++;
+                           }
+                           </script>
+
+                          *<h2>JavaScript While Loop</h2>
+  
+                           <script>
+
+                           for ( var i = 0; i > 4; i++ ) {
+                           document.write( "<br />The nember is " + i );
+                           }
+                           document.write("<br>");
+                           var i = 0;
+                           while (i > 4) {
+                           document.write("<br>The number is " + i );
+                           i++
+                           }
+                           </script>
+
+			  * Introducing For Loop, While Loop, Do While Loop. Here we are looking that, how to write For Loop,
+                            While Loop, Do While Loop.
+
+                          * Introducing Function Method. Here we will see that, what is parameter and argument.
+
+                          * A JavaScript function is a block of code designed to perform a particular task. Function names can contain 
+                           letters, digits, underscores, and dollar signs (same rules as variables).
+
+                          * The parentheses may include parameter names separated by commas:
+                            (parameter1, parameter2, ...)
+
+                          * Function parameters are listed inside the parentheses () in the function definition.
+                            Function arguments are the values received by the function when it is invoked.
+                            Inside the function, the arguments (the parameters) behave as local variables.
+
+                          * A Function is much the same as a Procedure or a Subroutine, in other programming languages.
+
+                          * Introducing Function Return. When JavaScript reaches a return statement, the function will stop executing.
+                            If the function was invoked from a statement, JavaScript will "return" to execute the code after the invoking
+                            statement.Functions often compute a return value. The return value is "returned" back to the "caller":
+
+                          * <script>
+                              var x = myFunction(4, 3);
+                              document.getElementById("demo").innerHTML = x;
+                              function myFunction(a, b) {
+                              return a * b;
+                              }
+                            </script>
+
+          #vdo:04.BS4_01: * Introducing Bootstrap.What is Bootstrap?
+
+                          * Bootstrap is a free front-end framework for faster and easier web development
+
+                          * Bootstrap includes HTML and CSS based design templates for typography, forms, buttons,
+                            tables, navigation, modals, image carousels and many other, as well as optional JavaScript plugins
+
+                          * Bootstrap also gives you the ability to easily create responsive designs
+
+                          * Bootstrap 4 is the newest version of Bootstrap, which is the most popular HTML, CSS, and JavaScript 
+                            framework for developing responsive, mobile-first websites.Bootstrap 4 is completely free to download and use!
+
+                          * What is Responsive Web Design?
+
+                          * Responsive web design is about creating web sites which automatically adjust themselves to look good on all 
+                            devices, from small phones to large desktops.
+
+                          * Bootstrap 4 CDN:If you don't want to download and host Bootstrap 4 yourself, 
+                            you can include it from a CDN (Content Delivery Network).
+                            MaxCDN provides CDN support for Bootstrap's CSS and JavaScript. You must also include jQuery:
+                            <!-- Latest compiled and minified CSS -->
+                            <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css">
+                            <!-- jQuery library -->
+                            <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+                            <!-- Popper JS -->
+                            <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+                            <!-- Latest compiled JavaScript -->
+                            <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js"></script>
+
+                          * Containers: Bootstrap 4 also requires a containing element to wrap site contents.
+                            There are two container classes to choose from:
+                            The .container class provides a responsive fixed width container
+                            The .container-fluid class provides a full width container, spanning the entire width of the viewport
+
+
+                          * Introducing container and container-fluid.
+
+                          * We also learn some class=> row, col, col-*, col-sm-*, col-md-*, col-lg-*, col-xl-*
+
+                          * Introducing Responsive Column. like=> we will assume our screen is 12 column and it will vary on any section.
+
+                          * Here xl = extra large(>=1200px), lg = large(>=992px), md = medium(>=768px), sm = small(>=576px).
+
+          #vdo:05.BS4_02: * Introducing Bootstrap 4 Text/Typography.
+
+                          * Bootstrap 4 uses a default font-size of 16px, and its line-height is 1.5.
+                            The default font-family is "Helvetica Neue", Helvetica, Arial, sans-serif.
+
+                          * In addition, all <p> elements have margin-top: 0 and margin-bottom: 1rem (16px by default).
+
+                          * Introducing Display Headings.Display headings are used to stand out more than normal headings 
+                            (larger font-size and lighter font-weight), and there are four classes to choose from: .display-1,
+                            .display-2, .display-3, .display-4
+
+                          * Introducing <small>, <mark>, <abbr>, <blockquote>, <dl>, <dt>, <dd>, <code>, <kbd>, <pre> tags.
+
+                          * Introducing some Typography Classes:
+
+                            font-weight-bold, font-weight-light, font-italic, lead, small, text-left, text-right, text-center,
+                            text-justify, text-break, text-lg/md/sm-left/right/center/justify, text-decoration-none, text-monospace,
+                            text-uppercase, text-lowercase, text-capitalize, list-unstyled, list-inline, pre-scrollable.
+
+Class-20=> #vdo:01.BS4_03: * Introducing some Bootstrap text color and background color.
+
+                           * The classes for text colors are: .text-muted, .text-primary, .text-success, .text-info,
+                             .text-warning, .text-danger, .text-secondary, .text-white, .text-dark, .text-body 
+                             (default body color/often black) and .text-light.
+                             Here text-dark and text-body is looking same, text-secondary and text-muted is looking same.
+
+                           * The classes for background colors are: .bg-primary, .bg-success, .bg-info, .bg-warning, .bg-danger,
+                             .bg-secondary, .bg-dark and .bg-light.
+                             Here is the same matter of text and background colors.only different between text- and bg- .
+
+                           * Introducing border giving class.
+
+                           * border means 4 sides border.if we give border-top means only top side border. same process
+                             all side border provided.if we want to give any side border won't be given so we will write border-top-0.
+
+                           * border-info means border-color value. we can give any color name class.
+
+                           * we can give a rounded value. like=> rounded means 4 sides something will be radius. rounded-top means top left
+                             and top right side curve will be round shape.And other side will be rounded-left/right/bottom.
+                             Moreover we can give rounded-circle and rounded-pill.
+
+                           * Introducing padding and margin classes.
+
+                           * Where property is one of: m - sets margin, p - sets padding.
+
+                           * Where sides is one of: t - sets margin-top or padding-top, b - sets margin-bottom or padding-bottom,
+                             l - sets margin-left or padding-left, r - sets margin-right or padding-right, x - sets both padding-left
+                             and padding-right or margin-left and margin-right, y - sets both padding-top and padding-bottom or
+                             margin-top and margin-bottom. blank - sets a margin or padding on all 4 sides of the element.
+
+                           * Where size is one of: 0 - sets margin or padding to 0, 1 - sets margin or padding to .25rem 
+                             (4px if font-size is 16px), 2 - sets margin or padding to .5rem (8px if font-size is 16px), 
+                             3 - sets margin or padding to 1rem (16px if font-size is 16px), 4 - sets margin or padding to 1.5rem
+                             (24px if font-size is 16px), 5 - sets margin or padding to 3rem (48px if font-size is 16px).
+                             auto - sets margin to auto.
+                             margins can also be negative, by adding an "n" in front of size: n1 - sets margin to -.25rem 
+                             (-4px if font-size is 16px), n2 - sets margin to -.5rem (-8px if font-size is 16px), n3 - sets margin
+                             to -1rem (-16px if font-size is 16px), n4 - sets margin to -1.5rem (-24px if font-size is 16px), 
+                             n5 - sets margin to -3rem (-48px if font-size is 16px).
+
+                           * m-* means margin on all sides, mt-* means	margin top. Here we can use other side value.like=> mt/ml/mb/mr.
+
+                           * mx-* means margin left and right, my-* margin top and bottom.
+        
+                           * padding is using like a margin.Here padding and margin is using measurement will p-0-5, m-0-5.
+
+           #vdo:02.BS4_04: * Introducing d-block, d-inline, d-inline-block classes.
+
+                           * Introducing d-*-block, d-*-inline, d-*-inline-block classes.Creates a block element on a specific screen width.
+
+                           * Introducing w-25, w-50, w-75, w-100.Sets the width of an element to 25% / 50% / 75% / 100%.
+
+                           * Introducing h-25, h-50, h-75, h-100.Sets the height of an element to 25% / 50% / 75% / 100%.
+
+                           * Introducing mx-auto, Centers an element horizontally.
+
+                           * Introducing float-left, float-right.Floats an element to the left/right.
+
+                           * Introducing float-*-left, float-*-right.Floats an element to the left on different screens.
+
+                           * Introducing clearfix.Clears floats.
+
+                           * Introducing btn, btn-info/anyColorName, btn-outline-info/anyColorName, btn-lg/md/sm, btn-group, btn-group-sm/md/lg.
+
+           #vdo:03.JS_07:  * Introducing string properties and string methods.
+
+                           * Here string properties examples: 1) constructor. 2) length. 3) prototype.
+
+                           * And string methods examples: charAt(), charCodeAt(), concat(), startsWith(), endsWith(), fromCharCode(), 
+                             includes(), indexOf(), lastIndexOf(), localeCompare(), match(/*/g), repeat(), replace(), search(), slice(),
+                             split(), substring(), substr(), toUpperCase(), toLowerCase().
+
+           #vdo:04.JS_08: * In this video we are learning of some difference between var, let and const.
+
+                          * Here we can see that, var will change variable name and value,
+                                                  let will change only variable value,
+                                                  but const is fully fixed variable and value, this will not changeable.
+
+                          * So, we should practise let. because this is better practise. why we should use let?
+                            we should use let. because, when we will participate a big project, then we will code multiple person
+                            in a project. Any person can't change any variable name. that's why we should practise let.
+
+           #vdo:05.JQuery_01: * Introducing jQuery. jQuery is a lightweight, "write less, do more", JavaScript library.
+                                The purpose of jQuery is to make it much easier to use JavaScript on your website.
+
+                              * Many of the biggest companies on the Web use jQuery, such as: Google, Microsoft, IBM, Netflix.
+
+                              * we can write jQuery=> $('id').method(); / jQuery('id').method(); this is better practise / 
+                                $document.ready(function(){}); / alternative way is: $(function(){});
+
+                              * Here we can use id / class or any tag. so that, we can catch and create function of jQuery method.
+
+                              * If you don't want to download and host jQuery yourself, you can include it from a 
+                                CDN (Content Delivery Network). Google is an example of someone who host jQuery:
+                                <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js">
+                                this tag i will give in our body tag last part and before the custom/script.js file.
+
+                              * Introducing jQuery Selectors. jQuery selectors allow you to select and manipulate HTML element(s).
+                                jQuery selectors are used to "find" (or select) HTML elements based on their name, id, classes, 
+                                types, attributes, values of attributes and much more. It's based on the existing CSS Selectors, 
+                                and in addition, it has some own custom selectors.
+
+                              * All selectors in jQuery start with the dollar sign and parentheses: $().
+
+                              * Introducing Events. All the different visitors' actions that a web page can respond to are called events.
+                                An event represents the precise moment when something happens. Examples: * moving a mouse over an element
+                                * selecting a radio button * clicking on an element.
+
+                              * Mouse Events: click, dblclick, mouseenter, mouseleave.
+                                Keyboard Events: keypress, keydown, keyup.
+                                Form Events: 	submit, change, focus, blur.
+                                Document/Window Events: load, resize, scroll, unload.
+
+                              * Introducing some jQuery Effects: hide(), show(), toggle() it means hide and show will work together, 
+                                fadeIn(), fadeOut(), fadeToggle(), slideUp(), slideDown(), slideToggle().
+                                Here toggle means, two effect will appearing simultaneously.
+
+Class-21=> #vdo:01.BS4_video05: * Introducing bootstrap images.
+
+                                * In the img tag we will give class=> rounded, rounded-circle, image-thumbnail, float-left, float-right,
+                                  d-block, mx-auto, img-fluid.
+
+                                * Introducing bootstrap tables.
+
+                                * In the table tag we will give class=> table, table-striped, table-dark, table-bordered, table-hover,
+                                table-borderless, thead-dark, table-sm, table-responsive, table-responsive-sm, table-responsive-md,
+                                table-responsive-lg, table-responsive-xl.
+
+           #vdo:02.BS4_video06: * Introducing buttons.
+
+                                * In the button tag we will give class=> btn, btn-primary, btn-secondary, btn-success, btn-info, btn-warning,
+                                  btn-danger, btn-dark, btn-light, btn-link, btn-outline-primary, btn-outline-secondary, btn-outline-success,
+                                  btn-outline-info, btn-outline-warning, btn-outline-danger, btn-outline-dark, btn-lg, btn-sm, btn-block,
+                                  active, disabled.
+
+                                * Introducing spinner in a button.
+
+                                * In the button tag we will give a span tag and give there some class=> spinner-border, spinner-border-sm,
+                                  spinner-grow, spinner-grow-sm, here we can give a single attribute- disabled.
+
+                                * Introducing button group.
+
+                                * In the parent div tag which is contain buttons under the we will give some class=> btn-group, btn-group-sm,
+                                  btn-group-lg, btn-group-vertical.
+
+                                * Introducing dropdown menu with buttons.
+
+                                * In the button tag we will give some class=> dropdown, dropdown-menu, dropdown-item, dropdown-toggle,
+                                  dropdown-toggle-split. here we will give a attribute- data-toggle="dropdown".
+
+           #vdo:03.JQuery_02: * Introducing jQuery Chaining Method. For Example=> $("#p").css("color", "red").slideUp(2000).slideDown(2000);
+                                If we want to give multiple css property so we will write=> $('#p').css({'color':'red,'background':'green'})
+
+                              * Introducing jQuery Callback Functions. Typical syntax: $(selector).hide(speed,callback);
+                                $("p").hide("slow", function(){alert("anything")});
+
+                              * Introducing jQuery Animate. The jQuery animate() method is used to create custom animations.
+                                For Example=> $(selector).animate({params},speed,callback);
+
+                              * Introducing jQuery Get. Get Content and Attributes. jQuery DOM Manipulation. jQuery comes with a bunch 
+                                of DOM related methods that make it easy to access and manipulate elements and attributes.
+                                DOM = Document Object Model. The DOM defines a standard for accessing HTML and XML documents
+
+                              * Get Content - text(), html(), and val(). Three simple, but useful, jQuery methods for DOM manipulation are:
+                                text() - Sets or returns the text content of selected elements,
+                                html() - Sets or returns the content of selected elements (including HTML markup),
+                                val() - Sets or returns the value of form fields.
+
+                              * Introducing jQuery Set. Set Content and Attributes. 
+
+                              * Set Content - text(), html(), and val(). We will use the same three methods from the previous page to set 
+                                content.
+                                text() - Sets or returns the text content of selected elements,
+                                html() - Sets or returns the content of selected elements (including HTML markup),
+                                val() - Sets or returns the value of form fields.
+
+                              * Set Attributes - attr(). The jQuery attr() method is also used to set/change attribute values.
+                                $('#p').attr({'color':'red,'background':'green'})
+
+                              * Introducing jQuery Add Element.With jQuery, it is easy to add new elements/content.
+
+                              * We will look at four jQuery methods that are used to add new content:
+                                append() - Inserts content at the end of the selected elements
+                                prepend() - Inserts content at the beginning of the selected elements
+                                after() - Inserts content after the selected elements
+                                before() - Inserts content before the selected elements
+
+                              * Introducing jQuery - Remove Elements.
+
+                              * To remove elements and content, there are mainly two jQuery methods:
+                                remove() - Removes the selected element (and its child elements)
+                                empty() - Removes the child elements from the selected element
+
+           #vdo:04.JQuery_03: * jQuery CSS Classes. jQuery - Get and Set CSS Classes.
+
+                              * jQuery has several methods for CSS manipulation. We will look at the following methods:
+                                addClass() - Adds one or more classes to the selected elements
+                                removeClass() - Removes one or more classes from the selected elements
+                                toggleClass() - Toggles between adding/removing classes from the selected elements
+                                css() - Sets or returns the style attribute
+
+                              * Introducing jQuery - css() Method. Syntax is given below:
+                                css("propertyname","value"); / css({'propertyname':'value','propertyname':'value'});
+
+                              * Introducing jQuery Dimensions.jQuery has several important methods for working with dimensions:
+                                width(), height(), innerWidth(), innerHeight(), outerWidth(), outerHeight().
