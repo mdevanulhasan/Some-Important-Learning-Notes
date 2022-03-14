@@ -26,3 +26,16 @@ Our Ubuntu Terminal Commands Is Given Below =>
 25) history => all command history.
 26) passwd => for change our password.
 27) exit, ctrl + shift + w => for close our terminal.
+*Error removing file: Permission denied:
+=>sudo rm -rf /path/to/directory/
+*How to delete a non-empty directory in Terminal?
+=>sudo rm -rf folderName
+*how to copy and paste a folder in ubuntu directory/
+How to change File or folder permissions in ubuntu to copy and paste
+=>sudo -i, chmod -R 777 /directoryLocation
+*For opening xampp server we can give some command
+=> cd goToXamppInstaller.runContainedDirectory, cd /opt/lampp, ls,
+sudo ./manager-linux-x64.run file
+*failed to open stream: Permission denied in /opt/lampp/htdocs
+=> sudo chmod -R 777 /opt/lampp/htdocs
+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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seohttps://drive.google.com/drive/folders/1N1dnlb452JwFO5vxGXV_CWnBBlSoQ1_j?usp=sharingwtc-https://drive.google.com/drive/folders/16ivD_9MUTq-pkiQsvGXxxSRzatu93rlV?usp=sharing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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

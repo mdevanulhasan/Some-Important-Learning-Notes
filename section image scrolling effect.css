@@ -1,0 +1,45 @@
+CSS 
+-------
+/* box container */
+.website-box {
+height: 300px;
+overflow: hidden;
+}
+ 
+ 
+/* website image position */
+.website-img img{
+object-fit: contain;
+object-position: 0px 0px;
+transition: object-position 6s ease;
+}
+ 
+ 
+ 
+ 
+ 
+JS
+------
+<script>
+var imgBox = document.querySelectorAll('.website-img img');
+for(i=0; i<imgBox.length;i++){
+imgBox[i].addEventListener('mouseenter', function(hover){
+var imgHeight = this.scrollHeight;
+var scrollheight = imgHeight - 300;
+hover.target.style.objectPosition = `0px -${scrollheight}px`;
+ 
+});
+ 
+imgBox[i].addEventListener('mouseleave', function(hover){
+hover.target.style.objectPosition = '0px 0px';
+ 
+ 
+});
+}
+ 
+</script>
+ 
+ 
+--------------
+Image Class: website-img
+Column Class: website-box
