@@ -1,0 +1,278 @@
+=================================================
+Some Important Bookmarkable Sites is given below:
+=================================================
+
+====================
+My Most Using Sites:
+====================
+
+1) Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+2) CodePen
+https://codepen.io/pen/
+
+3) WP.ORG
+https://wordpress.org
+
+4) W3C
+https://validator.w3.org/#validate_by_input+with_options
+
+5) Tmp Mail
+https://tempmailo.com
+
+6) Strng Pass
+https://passwordsgenerator.net
+
+7) GTmetrix
+https://gtmetrix.com
+
+8) pagespeed insights
+https://pagespeed.web.dev/
+
+9) Lorem
+https://www.lipsum.com/feed/html
+
+10) Flat Colors
+https://flatuicolors.com
+
+11) unDraw
+https://undraw.co/illustrations
+
+12) Lottie
+https://lottiefiles.com/featured
+
+13) Get Waves
+https://getwaves.io
+
+14) SVG
+https://www.softr.io/tools/svg-shape-generator
+
+15) Img Cmprs-1
+https://shortpixel.com/online-image-compression
+
+16) Img Cmprs-2
+https://imagecompressor.com
+
+17) Rmv Bg
+https://www.remove.bg
+
+18) Notepad
+https://notepad.pw/
+
+19) Typing practice
+https://www.keybr.com
+
+20) Canva
+https://www.canva.com/
+
+21) HTML COLORS
+https://htmlcolors.com/
+
+22) Photopea
+https://www.photopea.com
+
+23) ResizeImage.net
+https://resizeimage.net/
+
+24) QR Code Generator
+goqr.me
+
+25) URL Shortner
+https://bitly.com/
+
+==================
+Icons Using Sites:
+==================
+
+1) Font Awesome
+https://fontawesome.com/icons
+
+2) Material Icons
+https://fonts.google.com/icons?selected=Material+Icons
+
+3) Line Icons
+https://lineicons.com/icons/
+
+==================
+Fonts Using Sites:
+==================
+
+1) Google Fonts
+https://fonts.google.com/
+
+2) DaFont
+https://www.dafont.com/new.php
+
+3) Lipighor
+https://lipighor.com/freefont.html
+
+===================================
+Website Design Idea Generate Sites:
+===================================
+
+1) ThemeForest
+https://themeforest.net/
+
+2) Codecanyon
+https://codecanyon.net/
+
+3) TemplateMo
+https://templatemo.com/page/1
+
+4) ColorLib
+https://colorlib.com/wp/
+
+5) Freebiesbug
+https://freebiesbug.com/psd-freebies/
+
+6) UpLabs
+https://www.uplabs.com/templates/web
+
+7) GraphicsFuel
+https://www.graphicsfuel.com/?s=website+psd
+
+8) OS Templates
+https://www.os-templates.com
+
+=======================
+Web Design Tools Sites:
+=======================
+
+1) Animate.CSS
+https://animate.style/
+
+2) WoW.js
+https://wowjs.uk/docs.html
+
+3) Owl.Carousel.js
+https://owlcarousel2.github.io/OwlCarousel2/demos/responsive.html
+
+4) AOS Animate
+https://michalsnik.github.io/aos/
+
+5) jQueryScript.net
+https://www.jqueryscript.net/
+
+6) jQueryScrollify
+https://projects.lukehaas.me/scrollify/#home
+
+7) CSS-Tricks
+https://css-tricks.com/snippets/
+
+8) Clippy
+https://bennettfeely.com/clippy/
+
+9) Cheat Sheet
+https://docs.emmet.io/cheat-sheet/
+
+10) Octicons
+https://primer.style/octicons/
+
+==============================
+So Informative & Useful Sites:
+==============================
+
+1) ManyThings.org
+https://www.manythings.org/
+
+2) FullForms
+https://fullforms.com/
+
+3) Keyword Tool
+https://keywordtool.io
+
+4) HiPDF
+https://www.hipdf.com/
+
+5) iLovePDF
+https://www.ilovepdf.com
+
+6) GitHub Profile Generator
+https://rahuldkjain.github.io/gh-profile-readme-generator/
+
+7) Awesome GitHub Profiles
+https://eddiehubcommunity.github.io/awesome-github-profiles/profiles
+
+=============================
+Free Software Download Sites:
+=============================
+
+1) FileEagle.com
+https://www.fileeagle.com
+
+2) Get Into Pc
+https://igetintoapc.com
+
+3) FileHippo.com
+https://filehippo.com
+
+4) PowerISO
+www.poweriso.com/download.php
+
+============================================
+Web Design & Development Learning Platforms:
+============================================
+
+************ English Resource **************
+
+1) W3Schools
+https://www.w3schools.com/
+
+2) freeCodeCamp
+https://www.freecodecamp.org/
+
+3) MDN Web Docs
+https://developer.mozilla.org/en-US/
+
+4) TutorialRepublic
+https://www.tutorialrepublic.com/
+
+5) PHPBootCamp
+https://phpbootcampdocs.com/knowledge-base/php/introduction-to-php/
+
+************ Bangla Resource **************
+
+1) Training with Live Project
+www.trainingwithliveproject.com/
+
+2) Webcoachbd
+https://www.webcoachbd.com/
+
+3) SATT Academy
+https://www.sattacademy.com/
+
+====================================
+Copyright Free Image Download Sites:
+====================================
+
+1) Pexels
+https://www.pexels.com/
+
+2) Unsplash
+https://unsplash.com/
+
+3) Pixabay
+https://pixabay.com/
+
+4) Freepik
+https://www.freepik.com
+
+==========================================
+Download WP Themes & Plugins For Practise:
+==========================================
+
+1) WordPress.org
+https://wordpress.org
+
+2) Developerszone.net
+https://developerszone.net
+
+3) Downaio
+https://downaio.com/category/wordpress/wordpress-plugin/woocommerce-plugin/
+
+4) Download Free Themes
+https://www.downloadfreethemes.dev
+
+5) Download Wp Free
+https://downloadwpfree.com/
