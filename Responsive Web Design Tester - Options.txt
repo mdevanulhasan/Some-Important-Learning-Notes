@@ -1,0 +1,16 @@
+Responsive Web Design Tester - Options
+
+==========================
+Group Name: Custom Device:
+==========================
+
+====================  H x W (px)
+Big Desktop(1280):   640x1280
+Small Desktop(1024): 640x1024
+Big Tablet(992):     640x992
+Small Tablet(768):   640x768
+Big Mobile(480):     640x480
+Small Mobile(320):   640x320
+====================
+
+User Agent: anyThing
