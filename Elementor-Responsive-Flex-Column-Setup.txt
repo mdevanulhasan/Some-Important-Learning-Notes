@@ -1,0 +1,27 @@
+/* D-3, T-2, M-1 */
+
+selector .elementor-container {
+    flex-wrap: wrap;
+}
+
+selector .elementor-container .elementor-column {
+    width: 25%; /* column width will change(25%(4), 33.3%(3), 50%(2)) */
+}
+
+selector .elementor-container .elementor-row {
+    flex-wrap: wrap;
+}
+
+@media (min-width: 767px) and (max-width: 1024px) {
+    selector .elementor-container .elementor-column {
+    flex: 0 0 50%;
+    width: 50% ;
+    }
+}
+
+@media (max-width: 767px) {
+    selector .elementor-container .elementor-column {
+    flex: 0 0 100%;
+    width: 100% ;
+    }
+}
