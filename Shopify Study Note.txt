@@ -1,0 +1,116 @@
+=================================================================
+There are many types of eCommerce Platforms online. For Example=>
+=================================================================
+
+1) Self Branded eCommerce Store - Single Vendor Site.
+2) Popular Branded eCommerce Store - Multi Vendor Site. (Amazon, Walmart, Etsy, eBay)
+3) Dropshipping Store - Supplier Given Product Site. (AliExpress, Amazon, Alibaba)
+
+We can create this eCommerce website in many ways. like=>
+WordPress, Joomla, Drupal, Magento, Shopify, etc, or by raw coding.
+
+============================================================
+we can start an online store followed by some of the steps=>
+============================================================
+
+1) Choose an ecommerce platform
+2) Decide on a target audience
+3) Choose your products 
+4) Design your site
+5) Connect a payment gateway
+6) Choose a business structure
+7) Get your store ready for launch
+8) Launch your store
+9) Market your store
+
+=======================================
+Let's Introduce with Shopify platform=>
+=======================================
+
+Shopify is the most popular platform for creating an eCommerce website or online store.
+Since shopify is a self-hosted platform that offers a user-friendly solution for building
+an online store. It's an excellent option for beginners or users with limited technical 
+skills to get their online store up and running quickly. So, they give us a couple of 
+opportunities to create a website. Initially, we will choose a cost-free way to practice Shopify.
+which called shopify partners account.
+
+===================================
+Important Shopify resources links=>
+===================================
+
+Shopify partners account creation link: https://partners.shopify.com/
+Shopify winning product research link: https://dropispy.com/
+Shopify dropshipping product import site link: https://www.dsers.com/
+Shopify themes store link: https://themes.shopify.com/
+Shopify apps store link: https://app.shopify.com/
+
+Today we will see, how we can create an eCommerce website by Shopify.
+Firstly, we should create a Shopify partners account with Gmail.
+
+==========================================
+Shopify Partners Account Creation Process:
+==========================================
+
+1. Search Google => Shopify Partners => https://shopify.com/partners
+
+2. Click "Join Now" Button.
+
+3. Select => your existing gmail or google account. (Create Shopify ID)
+   Click "Continue With Google"
+
+4. Choose an account => Select your existing gmail account.
+
+5. Fill this out => Business Name , Address 1, City, Zip/Postal,
+   Job Title, Phone Number.
+
+6. Select => Building new shopify store for clients (4th Option)
+
+7. Do you have clients => select, No.
+
+8. Which eCommerce Platform => Select, WooCommerce.
+
+9. At last select => I have read and agree to the partner program.
+
+10. Now Click the button, "View your dashboard".
+
+===============================
+Shopify Store Creation Process:
+===============================
+
+1. At first access your dashboard.
+
+2. Click => Create Store Button.
+
+3. Fill this out => Store name & Password.
+
+4. Click => "Save" Button.
+
+5. We can visit our created store to write =>
+   storeurl.myshopify.com/admin
+
+6. We can change our store visiting password =>
+   access our dashboard then, Click "Online Store" option.
+   again, click "Preferences" option.
+   here we can set any desired password. and save it.
+
+7. Now if we want to visit our site,
+   we should require store link & pass.
+   (This password has in our dashboard)
+
+===============================
+Shopify Product Upload Process:
+===============================
+
+1. At first we will access our dashboard and go to "Store" option.
+
+2. Login our desired store & Click "Product" Option.
+
+3. Fill this out => Title, Description, Media(Product Image),
+                    Pricing, Available, Weight.
+
+4. Then we will write our Product organization => Type(Category),
+   Tags.
+
+5. Then Click "Save" Button.
+
+6. Here we can set some variation about => product size, color, price, etc.

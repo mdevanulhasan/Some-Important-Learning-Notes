@@ -1,0 +1,73 @@
+*** Figma Effective Plugins:
+
+1) Iconify
+2) Unsplash
+3) Brandfetch
+4) Flat-Icons
+5) Get Waves
+6) Material Design Icons (Community)
+7) Remove BG (***)
+8) UIHUT - UI Kit, Illustrations, 3D Assets, Icons (***)
+9) Isometric
+10) Clay Mockups 3D
+
+*** Display Sizes:
+
+- Desktop -
+1728 x 1117
+1512 x 982
+1440 x 1024
+1280 x 832
+1280 x 720
+
+- Tablet -
+1440 x 960
+1024 x 1366
+834 x 1194
+744 x 1133
+
+- Mobile -
+428 x 926
+414 x 736
+390 x 844
+375 x 667
+360 x 640
+360 x 800
+
+*** Important Shortcut Keys: All commands tested practically
+
+r = rectangle
+l = line
+o = oval / ellipse
+t = text
+p = pen
+v = move
+f = frame
+c = comment
+s = slice
+ctrl + (+) = Pixel Grid
+ctrl + c = copy
+ctrl + v = paste
+ctrl + x = cut
+ctrl + d = duplicate
+ctrl + g = group
+ctrl + / = search
+ctrl + u = underline
+ctrl + k = link
+ctrl + i = italic
+ctrl + b = bold
+ctrl + a = select all
+ctrl + [ = send back
+ctrl + ] = send front
+shift + i = resources > plugins
+shift + a = auto layout
+shift + (+) = zoom in
+shift + (-) = zoom out
+z + mouse left click = zoom in
+alt + z + mouse left click = zoom out
+alt + h = horizontal center
+alt + v = vertical center
+alt + 0 = inspect
+alt + 1 = layers
+alt + 2 = assets
+alt + 8 = design

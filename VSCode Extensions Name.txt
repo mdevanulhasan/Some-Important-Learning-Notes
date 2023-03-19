@@ -1,0 +1,5 @@
+Auto Close Tag, Beautify, Code Runner, Code Spell Checker, Debugger for Chrome, EditorConfig for VS Code,
+ESLint, Git History, GitLens, HTML CSS Support, Intellisense for CSS class name, JavaScript (ES6) code snippets,
+jslint, Live Server, Notepad++ Keymap, npm, npm intellisense, open in browser, Path Intellisense, 
+Prettier - Code formatter, Project Manager, Quokka.js, React Native Tools, Settings sync, VSCode Great Icons,
+Live Sass Compiler, Generate Dummy Text, Auto rename tag, vscode-pigments.

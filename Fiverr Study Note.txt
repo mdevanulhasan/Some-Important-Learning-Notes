@@ -1,0 +1,27 @@
+Fiverr Gig Required Contents:
+
+1) Title
+2) Gig Image
+3) Package
+4) Description
+5) Tags
+6) FAQ
+
+WP Popular Tasks:
+
+1) Full Website Creation
+2) Customization
+3) Landing Page
+4) WP Installation & Setup(*)
+5) Bug Fixes(*)
+6) Performance & SEO
+7) Backup & Migration
+8) Security
+9) Help/Consultation(*)
+
+Fiverr Tag Research Tricks:
+
+1) search a topic in the input field, then open 10 gigs and take five most common tags.
+2) search a topic in the input field, then we will see many search results there we will take those keywords.
+3) search a topic in the input field, then hit enter. then we can see some related keywords take your desired keywords.
+4) search a topic in the input field, then hit enter. then follow level one, two, new seller gigs. which persons are getting orders.

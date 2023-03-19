@@ -1,0 +1,16 @@
+====================================================
+Local server large sql file import problem solution:
+====================================================
+
+1) Go to xampp cPanel and click beside mysql tab, config option > Click my.ini option
+2) Find "myisam_sort_buffer_size" then put the value 50M and then save.
+3) Then stop and start mysql option in xampp cPanel.
+3) Our sql file will contain in xampp/mysql/bin/our.sql
+4) Now we will open our cmd and go to C:\xampp\mysql\bin> directory
+5) Then write the below text in the cmd:
+                              (dbusr)   (dbnm)   (importedLargeSqlFile)
+5) C:\xampp\mysql\bin>mysql -u ass-12 -p ass-12 < CMBD.sql
+6) next submit: dbpass and hit enter
+
+[keyword: how to manually import sql file in localhost]
+[Reff: https://www.youtube.com/watch?v=kQSFOhaMss0]

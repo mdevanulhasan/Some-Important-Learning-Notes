@@ -1,0 +1,116 @@
+﻿Buyer Communication All Messages
+================================
+
+Buyer Knock, Ans (kono client message dile):
+
+* Hey there, how can I help you?
+* Hello, are you looking for someone who is proficient in WordPress/ Web Design/ Shopify?
+
+Client Give Requirements (buyer jokhon requirement dibe):
+
+* Hi, Allow me some time to check.
+* Hi, Give me a moment to check.
+* Hi, Give me sometime to check.
+* Hi, Give me a minute to check.
+
+I Can Do The Task (jokhon clent er kajta ami parbo):
+
+* Yes, Certainly/Surely/ I can do that / I can help you with the work. 
+* I have done a similar project a few days ago- (some sample link).
+* Checkout my portfolio website for more works- (portfoio link).
+* Have a look at my recent works- (portfoio link).
+
+Asking For Demo (client er pochonder design chawa):
+
+* Do You Have Any Examples of Websites You Like?
+* Have you got any specific demo for your website?
+* Have you got any reference website / link / design / mockup / UI
+
+Send Demo To Niche (client k tar topic onushare demo dewa (themeforest/envato)):
+
+Have a look, At these samples. that is according to your niche. Let me know if you like any of them.
+
+Why Haven’t Review Ask (account a review nei client jiggasha korle):
+
+I'm an experienced developer. who is new to Fiverr. I have worked both locally and internationally with my clients. These are my recent works:
+
+Ask To Buyers (client k kaj shomporke jiggasha kora):
+
+* How Many Pages Would You Like To See? like: Home, Services, Contact Us, About Us.
+* How many products will upload?
+* How many products do I need to upload?
+* Any extra features you are looking forward to having?
+Extra Features (barti kaj offer kora):
+
+* Payment Gateway Integrate
+* Shipping & Tax Setup
+* Newsletter
+* Popup Form
+* Facebook Chatbot
+* Facebook Pixel
+* On Page SEO
+* Security Improve
+* Speed Optimization
+* Malware Remove
+
+Ask Theme/Plugin (Paid Content dibe kina):
+
+Will you provide me with the themes and plugins? or do I need to provide it from my side?
+
+Okay, I will provide it from my side. But I will use the developer version for your project.
+you won’t have any update in future.
+
+Ask Dom/Hos (domain, hosting ache kina):
+
+Do You Have Hosting And Domain?
+
+Domain research: https://instantdomainsearch.com/
+
+* Siteground
+* Bluehost
+* Hostinger
+
+If Haven’t Dom/Hos (domain, hosting na thakle, nijer hosting a kora):
+
+For now i can get your work done in my hosting server, before delivering the work i will transfer everything to your hosting server. What do you prefer?
+
+Deadline (client er kajer kono tara ache kina):
+
+* Have you got any estimated deadline for your work?
+* It will take me 7 days to complete your whole task :) let me know if you are comfortable with the time/duration?
+
+Ask Budget (Takar kotha jiggasha kora):
+
+* Is there a specific price range/budget you are looking for?
+* Is there a price range you are comfortable with?
+* May I know the price range you are comfortable with?
+
+Budget Negotiation (jodi client taka kom dite chay):
+
+* Okay, what if we go for 120$?
+* It would be better if you increase the price a little bit?
+* What about if we go for $180? because (describe the reason for an extra cost)
+* Most of the freelancers will charge 200$ but I will do your project for $120 with 7days of time along with premium/additional features. Like- seo, speed, chat, pixel etc.
+* Because client satisfaction is my main priority.
+* I always try to maintain a good and long-term relationship with my clients. 
+* I will charge 140$ with 5 days of time. Let me know if you are comfortable with the cost and time? 
+* Okay, what if we go for 120$?
+
+Custom Offer (offer send korar aage o pore):
+
+* Can I send you a custom offer?
+* Is everything okay with the offer?
+
+Before Order Delivery (order delivery er aage):
+
+Your Project is completed. Can you have a look at it? If you need any changes let me know.
+
+Time Extend (somoy baranor aage o pore):
+
+* Can you increase the project deadline/ project time/ project duration?
+* The time is over. I have sent you a time extension request. Can you please accept that? I need more time to complete your task.
+
+Take Review (client theke review newa):
+
+* I have done/accomplished your work/project successfully.  If you need anything else apart from actual requirements feel free to text me. Even in the future if you need any kind of help feel free to inbox me i will be there for you.
+* I am looking forward to having positive feedback/comments from you.

@@ -1,0 +1,11 @@
+Complete WordPress Security Guideline =>
+1) WP Scanner & Security Plugins: "Wordfence", "Sucuri Security", "iTheme Security".
+2) Keep Themes & Plugins Regular Updated.
+3) Use Strong Password in WP Dashboard Login.
+4) Keep Backup Regularly With "UpdraftPlus", "AIO Security", "WP Vivid" Plugin.
+5) WP Meta Generator & Version Disable With "meta-generator-and-version-info-remover" Plugin.
+6) Don't Use Any Nulled Themes & Plugin.
+7) Hide Login Page, Use Captcha & OTP Code With "wps-hide-login" Plugin.
+8) Use Cloudflare CDN.
+9) Use HTTP Security Headers With "headers-security-advanced-hsts-wp" Plugin.
+10) Protect .htaccess File.

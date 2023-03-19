@@ -1,0 +1,61 @@
+WordPress Website Speed Up or Speed Optimization:
+
+* Choose a reliable hosting provider
+* Use "WP Rocket" Premium Plugin (Recommended) / Use "LiteSpeed Cache" Plugin / Use "WP Super Cache" Plugin
+
+1) Update WP Core files (Automatically / Manually)
+
+2) Update Theme and Plugins (Automatically / Manually)
+
+3) Update PHP Version (cPanel / .htaccess)
+
+4) Update jQuery Version (With the Plugin: "jQuery Updater")
+
+5) Delete unused pages, posts, comments, plugins, themes, images (Manually)
+
+6) Optimize Images (Manually / Plugin)
+
+7) Serve Webp version Image (With the Plugin: "Imagify – Optimize Images & Convert WebP | Compress Images Easily" / "Converter for Media – Optimize images | Convert WebP & AVIF")
+
+8) Enable GZIP Compression (With the plugin: "WP Super Cache" / "W3 Total Cache")
+
+9) Minify HTML, CSS, JS (With Plugin "Clearfy Cache – WordPress optimization plugin, Minify HTML, CSS & JS, Defer")
+
+10) Enable caching for mobile device (With the plugin: "WP Super Cache")
+
+11) Browser caching (With the Plugin: "WP Super Cache" / "W3 Total Cache")
+
+12) Cache preloading (With the plugin: "WP Super Cache" / "LiteSpeed Cache")
+
+13) Optimize Google Fonts (With the Plugin: "OMGF | GDPR/DSGVO Compliant, Faster Google Fonts. Easy.")
+
+14) Database Optimization (With the Plugin: "WP Optimize" / "Plugins Garbage Collector (Database Cleanup)" / "Advanced Database Cleaner" / "WP-Sweep")
+
+15) Lazy Load Content (With the Plugin: "A3 Lazy Load Plugin")
+
+16) Use a CDN (Cloudflare / "WordPress CDN Enabler" Plugin)
+
+17) Limit or disable post revisions (wp-config.php file: define('WP_POST_REVISIONS', false );)
+
+18) Turn off pingbacks and trackbacks (Go to Settings>Discussion>Uncheck the box for Allow link notifications from other blogs (pingbacks and trackbacks) on new articles.)
+
+19) Disable Hotlinking and Leaching Content (.htaccess file: 
+#disable hotlinking of images with forbidden or custom image option
+RewriteEngine on
+RewriteCond %{HTTP_REFERER} !^$
+RewriteCond %{HTTP_REFERER} !^http(s)?://(www\.)?wpbeginner.com [NC]
+RewriteCond %{HTTP_REFERER} !^http(s)?://(www\.)?google.com [NC]
+RewriteRule \.(jpg|jpeg|png|gif)$ – [NC,F,L]
+)
+
+20) Use DNS Level Website Firewall (With Cloudflare / "Wordfence" Plugin)
+
+21) Fix HTTPS/SSL Errors with Plugin "Really Simple SSL"
+
+22) Increase Memory Limit (cPanel)
+
+23) Compress All Content (cPanel)
+
+24) Set Prerender pages (With the plugin: head & footer code=> <link rel="prerender" href="nextpage.php" />)
+
+25) LiteSpeed Web Cache Manager (cPanel:Flush All)

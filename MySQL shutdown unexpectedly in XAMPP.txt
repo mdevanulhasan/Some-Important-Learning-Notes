@@ -1,0 +1,14 @@
+For avoiding this problem, you can follow some steps which are given below:
+
+1. At first you should stop "Apache" and "MySQL" in your "xampp control panel".
+
+2. Go to the path: C:\xampp\mysql\backup Copy here everything
+
+3. Go to the path: C:\xampp\mysql\data And paste it here everything
+
+4. Here you will see a pop-up: Replace or Skip Files
+   Click Replace the files in the destination
+
+5. Now you can start "Apache" and "MySQL" without any hassle.
+
+Hopefully, it will work properly.

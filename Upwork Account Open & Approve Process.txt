@@ -1,0 +1,36 @@
+*******************************************************************************************************************
+Account open and approve process:
+*******************************************************************************************************************
+
+1) Go to upwork>click sign up button>again choose sign up>select freelancer>
+2) Give first name + last name as our nid card and give any gmail address, password. Then check this two option. Click create account.
+3) Check our email inbox. donotreply, verify message open and click Verify Email Button.
+4) Click Get Started Button>Select "Nope: it's new to me">"To earn my main income">Select all first options>Check below options.
+5) Click "Fill Out Manually">give a title like: Web Designer & Developer etc. Here we will try to set our all skills.
+6) Click "Next, Add Your Experience">Here we will add at least 4 experience from indeed or anywhere.
+7) Click "Next, Add Your Education">Give BBA/MBA Degree.
+8) Click "Next, Languages">Here we will give a single language and this will be English fluent.
+9) Click "Now Share Your Skills">Web Design, Web Development, WordPress, WooCommerce, Landing Page, Responsive Design, Squeeze Page,
+   WordPress SEO, Speed Up/ Speed Optimization, WordPress Security, Ecommerce, Email Marketing etc.
+10) Click "Now Write Your Bio"> given below please check.
+11) Click "Choose Your Area Of Work">
+Select "Web, Mobile & Software Dev">Ecommerce Development, Web Development, Web & Mobile Design
+Select "Customer Service">Customer Service & Tech Support
+12) Click "Next, Set Your Rate">$8
+13) Click "Lastly, Photo And Location">
+Upload Photo(PFP Maker> Make green BG, Passport Size) and set the pic to your throat to your head above the gap.
+Street Adsress>NID Address>Country, City, Zip Code, Phone number etc.
+14) Click "Check Your Profile">Submit Profile
+15) Click "View My Profile">Dismiss all notifications.
+Set Other Experiences>give at least 6 experiences.
+16) Click to header nav menu>Find Work>To right sidebar
+Click "Add Work">Click Portfolio Plus Icon>(1600x1200)px Pic.
+Put our project title(Landing Page Design), completion date, Click "Go to Select Template"
+Select Classic template and Click "Go to Add Details"
+Drag and drop/Upload our template pic, write small project descriptions.(Landing Page Design With WordPress)
+Copy Paste project descriptoin to the caption field.
+Select Multiple Skills(Give Probable All Skills).
+17) Click "Go To Preview">Then Click "Publish"(Give minimum 10 portfolios)
+18) Go to header nav manu>Find Work>Then we will see our account will approved.
+*** Approve Message: Congratulations! You're now part of Upwork.
+19) Go to profile settings>Give a security question(Within one word) and re-enter upwork password
