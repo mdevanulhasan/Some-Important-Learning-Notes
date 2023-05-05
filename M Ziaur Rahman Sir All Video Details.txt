@@ -1131,6 +1131,8 @@ Class-16=> #vdo:01.CSS_37: *Introducing 1)animation-name: anything; 2)animation-
                            *M Ziaur Rahman Sir also says that, when width will be big than height it's called landscape 
                                                                orientation.
 
+                            G4dz^n@Rz4C?v&f8G4dz^n@Rz4C?v&f8G4dz^n@Rz4C?v&f8G4dz^n@Rz4C?v&f8G4dz^n@Rz4C?v&f8G4dz^n@Rz4C?v&f8G4dz^n@Rz4C?v&f8G4dz^n@Rz4C?v&f8G4dz^n@Rz4C?v&f8G4dz^n@Rz4C?v&f8G4dz^n@Rz4C?v&f8G4dz^n@Rz4C?v&f8G4dz^n@Rz4C?v&f8G4dz^n@Rz4C?v&f8G4dz^n@Rz4C?v&f8G4dz^n@Rz4C?v&f8G4dz^n@Rz4C?v&f8G4dz^n@Rz4https://drive.google.com/drive/folders/1LpxdLUAiESJ9SidO7IvrBLsTPqT1Ewm8?usp=share_linkG4dz^n@Rz4C?v&f8G4dz^n@Rz4C?v&f8G4dz^n@Rz4C?v&f8G4dz^n@Rz4C?v&f8G4dz^n@Rz4C?v&f8G4dz^n@Rz4C?v&f8G4dz^n@Rz4C?v&f8G4dz^n@Rz4C?v&f8G4dz^n@Rz4C?v&f8G4dz^n@Rz4C?v&f8G4dz^n@Rz4C?v&f8G4dz^n@Rz4C?v&f8G4dz^n@Rz4C?v&f8G4dz^n@Rz4C?v&f8G4dz^n@Rz4C?v&f8G4dz^n@Rz4C?v&f8G4dz^n@Rz4C?v&f8G4dz^n@Rz4https://mega.nz/folder/M1lEVZ6J#zatGbgP9G_rIhfJnc4LOnwG4dz^n@Rz4C?v&f8G4dz^n@Rz4C?v&f8G4dz^n@Rz4C?v&f8G4dz^n@Rz4C?v&f8G4dz^n@Rz4C?v&f8G4dz^n@Rz4C?v&f8G4dz^n@Rz4C?v&f8G4dz^n@Rz4C?v&f8G4dz^n@Rz4C?v&f8G4dz^n@Rz4C?v&f8G4dz^n@Rz4C?v&f8G4dz^n@Rz4C?v&f8G4dz^n@Rz4C?v&f8G4dz^n@Rz4C?v&f8G4dz^n@Rz4C?v&f8G4dz^n@Rz4C?v&f8G4dz^n@Rz4C?v&f8G4dz^n@Rz4
+
 Class-17=> #vdo:01.CSS_41: *Introducing some advance background effect. As like: filter: opacity(0.4/30%); filter: grayscale(100%/50%);
                             filter: invert(1/0.8); filter: blur(5px); filter: contrast(100%/200%); filter: sepia(100%/70%);
                             filter: saturate(1/5); filter: drop-shadow(0 0 10px red/0 5px 2px red); filter: hue-rotate(50deg);

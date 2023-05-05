@@ -1,2 +1,2 @@
 Autoprefixer, Autosave Files on Window Blur, Beautify, Brackets Color Picker, Brackets CSS Code hint, Brackets Tree Icons, Color Highlighter,
-Custom Work, Emmet, Indent Guides, Lorem Ipsum, SASS Autocompile, Sweet Dark, Visual Studio Dark.
+Custom Work, Emmet, Indent Guides, Lorem Ipsum, SASS Autocompile, Sweet Dark, Visual Studio Dark. 
